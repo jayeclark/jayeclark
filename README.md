@@ -36,9 +36,9 @@ let y = condition ? expressionIfTrue : expressionIfFalse
 // instead of 
 let y = '';
 if (condition) { 
-   expressionIfTrue 
+  y = expressionIfTrue;
 } else { 
-   expressionIfFalse 
+  y = expressionIfFalse;
 }
 
 // Keep in mind that this ternary operator format only works for single-line values or expressions. 
