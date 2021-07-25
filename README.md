@@ -7,20 +7,17 @@ I'm interested in contributing to projects on a volunteer basis. I'm specificall
 
 ## Version History
 
-**Version 4.0 - In process**  
+**Version 3.0: Work in Progress**  
 When the pandemic put my executive job on pause, I reflected on my past roles - none of which were quite the right fit - and decided to consider a fresh start in a new industry. In May 2021, after realizing I'd felt most fulfilled (and most useful) working on web apps to solve business problems, I took the humbling step of completely rebooting my career, starting over from scratch to learn development the right way. For years, friends & family had told me I was too old to be able to catch up, that it was too difficult, or that I wouldn't enjoy it. As I hope my portfolio (coming soon) will demonstrate, they were wrong.
 
-**Version 3.1: Startup Life**  
-My partner, a game industry exec, saw that Twitch streamers needed help running their businesses, especially on paid collaborations with publishers and brands. As COO, I grew that observation from an idea into a renowned talent management business that was covered in the New Yorker and CNN. Though the venture did not survive the pandemic, I'm grateful for the experience - and especially grateful that our displaced employees all found new roles quickly. 
+**Version 2.1: Startup Life**  
+My partner, a game industry executive, saw that Twitch streamers needed help running their businesses, especially on paid collaborations with publishers and brands. As COO, I grew that observation from an idea into a renowned talent management business that was covered in the New Yorker and CNN. Though the venture did not survive the pandemic, I'm grateful for the experience - and especially grateful that our displaced employees all found new roles quickly. 
 
-**Version 3.0: California Dreamin'**  
-I moved permanently to San Diego and worked as an analyst for an award-winning consulting firm. While there, I designed and built a web app for real-time GPS tracking, reservation processing, and dispatch of a fleet of several dozen airport shuttles - an app that was somehow, against all odds, successfully kludged together from WordPress components and custom PHP snippets.
+**Version 2.0: California Dreamin**  
+I moved to San Diego and worked as an analyst for an award-winning consulting firm. While there, I designed and built a web app for real-time GPS tracking, reservation processing, and dispatch of a fleet of several dozen airport shuttles - an app that was somehow, against all odds, successfully kludged together from WordPress components and custom PHP snippets.
 
-**Version 2.1: Flip that House**  
-My father was a contractor, so it was a natural step for me to start a construction & real estate development business as my PhD 'side hustle.' It gave me the financial freedom to escape to sunny San Diego during the bitter Cambridge winters. Along the way, I realized that academia wasn't the path for me - increasing job scarcity meant I'd have little choice of where in the country my career would take me.
-
-**Version 2.0: Doctor Doctor**  
-I pursued a doctorate because I was planning in a career in academia. During the doctorate, I worked for Harvard's Program in Health Systems Improvement where I built a content management system for drafting, approving, and distributing monthly newsletters. My doctoral training trained me to teach and mentor others, to seek out new information and quickly build competence in new technical topics, and to work smarter, not harder - all skills that I bring to my coding today.
+**Version 1.1: Doctor Doctor**  
+I pursued a doctorate because I was planning in a career in academia. During the doctorate, I worked for Harvard's Program in Health Systems Improvement where I built a content management system for drafting, approving, and distributing monthly newsletters. My doctoral training trained me to teach and mentor others, to seek out new information and quickly build competence in new technical topics, and to work smarter, not harder - all skills that I bring to my coding today. Along the way, I realized that academia wasn't the path for me - increasing job scarcity meant I'd have little choice of where in the country my career would take me.
 
 **Version 1.0: Harvard, Here I Come**  
 I landed a spot at one of the most highly selective and respected universities. To pay for my degree, I worked in marketing at a start-up ERP software developer while a full time student. My Hoopes Prize-nominated thesis on internet culture led me to be accepted to Harvard's History of Science department as a PhD candidate. I took a gap year before the PhD to work in Corporate Strategy at a nonprofit biotech.
