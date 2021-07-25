@@ -1,6 +1,6 @@
 # Jay Clark
 
-Hello world, I’m @jayeclark, and I've been training to be a full stack software engineer since May 2021, focusing on the MERN stack to start. At the moment, I'm working on making sure I have a strong grasp of JavaScript fundamentals. I've been active on [Codewars](https://www.codewars.com/users/jayclark) since July 2021, and I participate on Leetcode a bit as well.
+Hello world, I’m @jayeclark, and I've been training to be a full stack software engineer since May 2021, focusing on the MERN stack to start. At the moment, I'm working on making sure I have a strong grasp of JavaScript fundamentals. I've been active on [Codewars](https://www.codewars.com/users/jayclark) since July 2021, and I participate on Leetcode some as well.
 
 ## Contributing
 I would love to contribute to projects on a volunteer basis. I'm specifically looking become more familiar with version control and with the project management tools that I might be expected to use in a developer role, especially JIRA. I have a talent for debugging and refactoring that I am eager to contribute to the right team.
@@ -8,7 +8,7 @@ I would love to contribute to projects on a volunteer basis. I'm specifically lo
 ## Version History
 
 **Version 4.0 - In process**  
-When the pandemic put my high-pressure executive job on pause, I reflected on my past roles - none of which were the best fit - and decided to consider a fresh start in a new industry. In May 2021, after realizing I'd felt most fulfilled (and most useful) working on web apps to solve business problems, I took the humbling step of completely rebooting my career, starting over from scratch to learn development the right way. For years, friends & family had told me I was too old to be able to catch up, that it was too difficult, or that I wouldn't enjoy it. As I hope my portfolio (coming soon) will demonstrate, they were wrong.
+When the pandemic put my executive job on pause, I reflected on my past roles - none of which were the best fit - and decided to consider a fresh start in a new industry. In May 2021, after realizing I'd felt most fulfilled (and most useful) working on web apps to solve business problems, I took the humbling step of completely rebooting my career, starting over from scratch to learn development the right way. For years, friends & family had told me I was too old to be able to catch up, that it was too difficult, or that I wouldn't enjoy it. As I hope my portfolio (coming soon) will demonstrate, they were wrong.
 
 **Version 3.1: Startup Life**  
 My partner, a game industry exec, saw that Twitch streamers needed help running their businesses, especially on paid collaborations with publishers and brands. As COO, I grew that observation from an idea into a renowned talent management business that was covered in the New Yorker, the New York Times and CNN. Though the venture did not survive the pandemic, I'm grateful for the experience - and for the fact that our displaced employees all found new roles quickly. I enjoyed my technical side-projects (coding custom functions and integrations) the most, and learned that I perform better as a member of a team of equals at a larger organization, rather than as an executive at a small company.
@@ -26,7 +26,7 @@ I pursued a doctoral degree because I was planning in a career in academia & uni
 I was fortunate to land a slot at one of the most highly selective and most respected universities. To pay for my degree and avoid student loans, I worked in marketing at a start-up ERP software developer while also a full time student. My Hoopes Prize-nominated thesis on internet culture led me to apply and be accepted to Harvard's History of Science department as a PhD candidate. I took a gap year after graduation to work in Corporate Strategy at a nonprofit biotech.
 
 ## Favorite Javascript Shortcuts
-These are some of the favorite shorcuts I've come across for use in competitive programming and sites like Codewars & Leetcode.
+These are some of the favorite shortcuts I've come across for use in competitive programming and sites like Codewars & Leetcode.
 
 **Ternary Operator**  
 ```javascript
