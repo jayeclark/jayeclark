@@ -1,6 +1,6 @@
 # Jay Clark
 
-Hello world, I’m @jayeclark, and I've been training to be a full stack software engineer since May 2021, focusing on the MERN stack at first with a plan to add MEAN, LAMP, and Ruby on Rails. At the moment, though, I'm working on making sure I have a strong grasp of JavaScript fundamentals. I've been active on [Codewars](https://www.codewars.com/users/jayclark) since July 2021, and I participate on Leetcode some as well.
+Hello world, I’m @jayeclark, and I've been training to be a full stack software engineer since May 2021, focusing on the MERN stack at first with a plan to add MEAN, LAMP, and Ruby on Rails later in my training. At the moment I'm working on making sure I have a strong grasp of JavaScript fundamentals. I've been active on [Codewars](https://www.codewars.com/users/jayclark) since July 2021, and I participate on Leetcode occasionally as well.
 
 ## Contributing
 I'm interested in contributing to projects on a volunteer basis. I'm specifically looking become more familiar with version control and with the project management tools that I might be expected to use in a developer role, especially JIRA. I have a talent for debugging, refactoring, and self-commenting code that I am eager to contribute to the right team.
