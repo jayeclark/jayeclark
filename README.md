@@ -1,6 +1,6 @@
 # Jay Clark
 
-Hello world, I’m @jayeclark, and I've been training to be a full stack software engineer since May 2021, focusing on the MERN stack. You can see more of my work by browsing my repositories, [visiting my portfolio site](https://jayeclark.github.io) or perusing some of my work-in-progress react apps like my [Front End Toggler](https://jayeclark.github.io/front-end/) and my [Bad Bank App](https://jayeclark.github.io/banking). 
+Hello world, I’m @jayeclark, and I've been training to be a full stack software engineer since May 2021, focusing on the MERN stack. You can see more of my work by browsing my repositories, viewing my [Portfolio Site](https://jayeclark.github.io) or perusing some of my work-in-progress react apps like my [Front End Toggler](https://jayeclark.github.io/front-end/) and my [Bad Bank App](https://jayeclark.github.io/banking). 
   
 At the moment I'm working on making sure I have a strong grasp of JavaScript fundamentals. I've been active on [Codewars](https://www.codewars.com/users/jayclark) since July 2021, and I participate on Leetcode occasionally as well.
 
