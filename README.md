@@ -16,8 +16,8 @@ I'm interested in contributing to projects on a volunteer basis. I'm specificall
 ## Resources
 Here are some guides & articles I've put together!
 
-[Favorite JavaScript shortcuts](https://github.com/jayeclark/jayeclark/blob/main/jsShortcuts.md)
-[Intro Tour of Codewars](https://jayeclark.github.io/resources/tour.html)
+[Favorite JavaScript shortcuts](https://github.com/jayeclark/jayeclark/blob/main/jsShortcuts.md) |
+[Intro Tour of Codewars](https://jayeclark.github.io/resources/tour.html) |
 [Recommended Beginner Codewars Challenges](https://jayeclark.github.io/resources/codewars.html)
 
 <!---
