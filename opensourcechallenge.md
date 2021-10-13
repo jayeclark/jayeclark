@@ -4,7 +4,7 @@ The most challenging part of joining a new development team is navigating a new,
 
 ## Goals  
 * **Base**: Open pull requests against 100 open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.)
-* **Stretch**: Complete the challenge in 100 days. 
+* **Stretch**: Complete the challenge in 100 days. (Start date: October 11, 2021)
 * **Long Term**: Have pull requests successfully merged into 100 open source repositories.
 
 # Technologies Touched
