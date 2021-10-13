@@ -36,18 +36,25 @@ C++ | Docker | Javascript | Gatsby | React | Ruby | Ruby on Rails | Typescript
     <td><a href="https://github.com/o3de/o3de.org/pull/1035" target="_blank">PR #1035</a></td>
     <td>Submitted</td>
   </tr>
-    <tr>
+  <tr>
     <td>4</td>
     <td><a href="https://github.com/spazure/react-social-icons" target="_blank">React-social-icons</a></td>
     <td>React icon library</td><td>Developers</td>
     <td><a href="https://github.com/spazure/react-social-icons/pull/2" target="_blank">PR #12</a></td>
     <td>Submitted</td>
   </tr>
-    <tr>
+  <tr>
     <td>5</td>
     <td><a href="https://github.com/Ricochet-Exchange/ricochet-frontend" target="_blank">Ricochet Exchange</a></td>
     <td>Blockchain investing</td><td>Consumers</td>
     <td><a href="https://github.com/Ricochet-Exchange/ricochet-frontend/pull/37" target="_blank">PR #37</a></td>
     <td>Submitted</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><a href="https://github.com/ACM-VIT/certify" target="_blank">Certify</a></td>
+    <td>Certificate generator</td><td>Educational Orgs</td>
+    <td><a href="https://github.com/ACM-VIT/certify/pull/23" target="_blank">PR #23</a></td>
+    <td>Draft</td>
   </tr>
   </table>
