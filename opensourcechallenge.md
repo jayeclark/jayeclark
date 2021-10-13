@@ -3,7 +3,7 @@
 The most challenging part of joining a new development team is navigating a new, unknown code base and adapting to new technologies and new stacks. To build this foundational skill, I've embarked on a challenge that requires me to rapidly get up to speed on, navigate, and create local development environments for new code bases.
 
 ## Goals  
-* **Base**: Open pull requests against 100 open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need the relevant issue opened.)
+* **Base**: Open pull requests against 100 open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.)
 * **Stretch**: Complete the challenge in 100 days. 
 * **Long Term**: Have pull requests successfully merged into 100 open source repositories.
 
