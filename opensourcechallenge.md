@@ -31,9 +31,23 @@ C++ | Docker | Javascript | Gatsby | React | Ruby | Ruby on Rails | Typescript
   </tr>
   <tr>
     <td>3</td>
-    <td><a href="o3de/o3de.org " target="_blank">Open 3D Engine</a></td>
+    <td><a href="https://github.com/o3de/o3de.org" target="_blank">Open 3D Engine</a></td>
     <td>N/A</td><td>3D Graphics Engine</td>
     <td><a href="https://github.com/o3de/o3de.org/pull/1035" target="_blank">PR #1035</a></td>
+    <td>Submitted</td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td><a href="https://github.com/spazure/react-social-icons" target="_blank">React-social-icons</a></td>
+    <td>N/A</td><td>React icon library</td>
+    <td><a href="https://github.com/spazure/react-social-icons/pull/2" target="_blank">PR #12</a></td>
+    <td>Submitted</td>
+  </tr>
+    <tr>
+    <td>5</td>
+    <td><a href="https://github.com/Ricochet-Exchange/ricochet-frontend" target="_blank">Ricochet Exchange</a></td>
+    <td>N/A</td><td>Blockchain investing</td>
+    <td><a href="https://github.com/Ricochet-Exchange/ricochet-frontend/pull/37" target="_blank">PR #37</a></td>
     <td>Submitted</td>
   </tr>
   </table>
