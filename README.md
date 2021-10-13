@@ -3,7 +3,7 @@
 Hello world, I’m @jayeclark, and I started training to be a full stack software engineer in May 2021. You can see more of my work by browsing my [repositories](https://github.com/jayeclark?tab=repositories), viewing my [Portfolio](https://jayeclark.github.io) or exploring my work-in-progress react apps like my [Front End Toggler](https://jayeclark.github.io/front-end/) and my [Bad Bank App](https://jayeclark.github.io/banking). 
 
 ## Contributing
-I'm very interested in contributing to projects on a volunteer basis!   
+I'm very interested in contributing to projects on a volunteer basis.  
     
 At the moment I'm in the middle of an [Open Source Challenge](https://github.com/jayeclark/jayeclark/blob/main/opensourcechallenge.md) to open valid, issue-resolving pull requests against **100 open source projects in 100 days** - so it's unlikely that I'll be contributing to a repository more than once until that challenge is completed. But please feel free to reach out if you like my work and would like additional contributions from me in the future!
 
