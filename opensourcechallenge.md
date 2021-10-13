@@ -51,7 +51,7 @@ C++ | Docker | Javascript | Gatsby | React | Ruby | Ruby on Rails | Typescript
     <td>Submitted</td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>6</td>
     <td><a href="https://github.com/ACM-VIT/certify" target="_blank">Certify</a></td>
     <td>Certificate generator</td><td>Educational Orgs</td>
     <td><a href="https://github.com/ACM-VIT/certify/pull/23" target="_blank">PR #23</a></td>
