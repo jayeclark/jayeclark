@@ -1,6 +1,6 @@
 # Jay Clark
 
-Hello world, I’m @jayeclark, and I started training to be a full stack software engineer in May 2021. You can see more of my work by browsing my [repositories](https://github.com/jayeclark?tab=repositories), viewing my [Portfolio](https://jayeclark.github.io) or exploring my work-in-progress react apps like my [Front End Toggler](https://jayeclark.github.io/front-end/) and my [Bad Bank App](https://jayeclark.github.io/banking). 
+Hello world, I’m [@jayeclark](https://www.linkedin.com/in/jayeclark) and I started training to be a full stack software engineer in May 2021. You can see more of my work by browsing my [repositories](https://github.com/jayeclark?tab=repositories), viewing my [Portfolio](https://jayeclark.github.io) or exploring my work-in-progress react apps like my [Front End Toggler](https://jayeclark.github.io/front-end/) and my [Bad Bank App](https://jayeclark.github.io/banking). 
 
 ## Contributing
 I'm very interested in contributing to projects on a volunteer basis.  
