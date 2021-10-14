@@ -58,7 +58,7 @@ C++ | CSS | Docker | Javascript | Gatsby | Git | HTML | React | Ruby | Ruby on R
     <td>Draft</td>
   </tr>
     <tr>
-    <td>6</td>
+    <td>7</td>
     <td><a href="https://github.com/DeGrandis/canvas-dark-mode" target="_blank">Canvas Dark Mode</a></td>
     <td>Chrome Extension</td><td>Educational Orgs</td>
     <td><a href="https://github.com/DeGrandis/canvas-dark-mode/pull/13" target="_blank">PR #13</a></td>
