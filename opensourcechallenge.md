@@ -34,7 +34,7 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | HTML | JavaScript | Lar
     <td><a href="https://github.com/o3de/o3de.org" target="_blank">Open 3D Engine</a></td>
     <td>3D Graphics Engine</td><td>Game developers</td>
     <td><a href="https://github.com/o3de/o3de.org/pull/1035" target="_blank">PR #1035</a></td>
-    <td>Submitted</td>
+    <td>Approved</td>
   </tr>
   <tr>
     <td>4</td>
