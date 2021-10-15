@@ -27,7 +27,7 @@ C++ | CSS | Docker | Javascript | Gatsby | Git | HTML | React | Ruby | Ruby on R
     <td><a href="https://github.com/layer5io/layer5" target="_blank">Layer5</a></td>
     <td>Website</td><td>Developers</td>
     <td><a href="https://github.com/layer5io/layer5/pull/2265" target="_blank">PR #2265</a></td>
-    <td>Approved</td>
+    <td>Merged</td>
   </tr>
   <tr>
     <td>3</td>
@@ -62,7 +62,7 @@ C++ | CSS | Docker | Javascript | Gatsby | Git | HTML | React | Ruby | Ruby on R
     <td><a href="https://github.com/DeGrandis/canvas-dark-mode" target="_blank">Canvas Dark Mode</a></td>
     <td>Chrome Extension</td><td>Educational Orgs</td>
     <td><a href="https://github.com/DeGrandis/canvas-dark-mode/pull/13" target="_blank">PR #13</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>
   <tr>
     <td>8</td>
