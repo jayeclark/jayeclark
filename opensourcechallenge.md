@@ -69,6 +69,6 @@ C++ | CSS | Docker | Javascript | Gatsby | Git | HTML | React | Ruby | Ruby on R
     <td><a href="https://github.com/wh1zk1d/pomo" target="_blank">Pomo</a></td>
     <td>Productivity App</td><td>Consumers</td>
     <td><a href="https://github.com/wh1zk1d/pomo/pull/18" target="_blank">PR #18</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>
   </table>
