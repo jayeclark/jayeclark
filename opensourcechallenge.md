@@ -13,7 +13,7 @@ C++ | CSS | Docker | Javascript | Gatsby | Git | HTML | React | Ruby | Ruby on R
 # Contribution Log
 <table>
   <tr>
-    <td>#</td><td>Repository</td><td>Type of Software</td><td>Audience</td><td>Pull Request</td><td>Status</td>
+    <td><b>#</b></td><td><b>Repository</b></td><td><b>Type of Software</b></td><td><b>Audience</b></td><td><b>Pull Request</b></td><td><b>Status</b></td>
   </tr>
   <tr>
     <td>1</td>
