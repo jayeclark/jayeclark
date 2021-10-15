@@ -71,4 +71,11 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | HTML | JavaScript | Lar
     <td><a href="https://github.com/wh1zk1d/pomo/pull/18" target="_blank">PR #18</a></td>
     <td>Merged</td>
   </tr>
+    <tr>
+    <td>9</td>
+    <td><a href="https://github.com/ploomber/ploomber/" target="_blank">Ploomber</a></td>
+    <td>Workflow Orchestrator</td><td>Developers</td>
+    <td><a href="https://github.com/ploomber/ploomber/pull/371" target="_blank">PR #371</a></td>
+    <td>Merged</td>
+  </tr>
   </table>
