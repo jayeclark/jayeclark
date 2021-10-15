@@ -76,7 +76,7 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | HTML | JavaScript | Lar
     <td><a href="https://github.com/ploomber/ploomber/" target="_blank">Ploomber</a></td>
     <td>Workflow Orchestrator</td><td>Developers</td>
     <td><a href="https://github.com/ploomber/ploomber/pull/371" target="_blank">PR #371</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>
     <tr>
     <td>10</td>
