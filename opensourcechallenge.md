@@ -55,7 +55,7 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | HTML | JavaScript | Lar
     <td><a href="https://github.com/ACM-VIT/certify" target="_blank">Certify</a></td>
     <td>Certificate generator</td><td>Educational Orgs</td>
     <td><a href="https://github.com/ACM-VIT/certify/pull/23" target="_blank">PR #23</a></td>
-    <td>Draft</td>
+    <td>Approved</td>
   </tr>
   <tr>
     <td>7</td>
@@ -76,6 +76,6 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | HTML | JavaScript | Lar
     <td><a href="https://github.com/ploomber/ploomber/" target="_blank">Ploomber</a></td>
     <td>Workflow Orchestrator</td><td>Developers</td>
     <td><a href="https://github.com/ploomber/ploomber/pull/371" target="_blank">PR #371</a></td>
-    <td>Merged</td>
+    <td>Submitted</td>
   </tr>
   </table>
