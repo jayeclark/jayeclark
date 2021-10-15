@@ -57,11 +57,18 @@ C++ | CSS | Docker | Javascript | Gatsby | Git | HTML | React | Ruby | Ruby on R
     <td><a href="https://github.com/ACM-VIT/certify/pull/23" target="_blank">PR #23</a></td>
     <td>Draft</td>
   </tr>
-    <tr>
+  <tr>
     <td>7</td>
     <td><a href="https://github.com/DeGrandis/canvas-dark-mode" target="_blank">Canvas Dark Mode</a></td>
     <td>Chrome Extension</td><td>Educational Orgs</td>
     <td><a href="https://github.com/DeGrandis/canvas-dark-mode/pull/13" target="_blank">PR #13</a></td>
+    <td>Submitted</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td><a href="https://github.com/wh1zk1d/pomo" target="_blank">Pomo</a></td>
+    <td>Productivity App</td><td>Consumers</td>
+    <td><a href="https://github.com/wh1zk1d/pomo/pull/18" target="_blank">PR #18</a></td>
     <td>Submitted</td>
   </tr>
   </table>
