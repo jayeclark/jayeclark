@@ -55,7 +55,7 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | HTML | JavaScript | Lar
     <td><a href="https://github.com/ACM-VIT/certify" target="_blank">Certify</a></td>
     <td>Certificate generator</td><td>Educational Orgs</td>
     <td><a href="https://github.com/ACM-VIT/certify/pull/23" target="_blank">PR #23</a></td>
-    <td>Approved</td>
+    <td>Merged</td>
   </tr>
   <tr>
     <td>7</td>
@@ -83,6 +83,6 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | HTML | JavaScript | Lar
     <td><a href="https://github.com/espoo-dev/espoo-dev/" target="_blank">Espoo</a></td>
     <td>Learning Platform</td><td>Students</td>
     <td><a href="https://github.com/espoo-dev/espoo-dev/pull/364" target="_blank">PR #364</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>
   </table>
