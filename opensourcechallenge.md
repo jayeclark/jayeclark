@@ -48,7 +48,7 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | HTML | JavaScript | Lar
     <td><a href="https://github.com/Ricochet-Exchange/ricochet-frontend" target="_blank">Ricochet Exchange</a></td>
     <td>Blockchain investing</td><td>Consumers</td>
     <td><a href="https://github.com/Ricochet-Exchange/ricochet-frontend/pull/37" target="_blank">PR #37</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>
   <tr>
     <td>6</td>
