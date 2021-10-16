@@ -78,11 +78,18 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | HTML | JavaScript | Lar
     <td><a href="https://github.com/ploomber/ploomber/pull/371" target="_blank">PR #371</a></td>
     <td>Merged</td>
   </tr>
-    <tr>
+  <tr>
     <td>10</td>
     <td><a href="https://github.com/espoo-dev/espoo-dev/" target="_blank">Espoo</a></td>
     <td>Learning Platform</td><td>Students</td>
     <td><a href="https://github.com/espoo-dev/espoo-dev/pull/364" target="_blank">PR #364</a></td>
+    <td>Merged</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td><a href=https://github.com/wwcodecolorado/scrollodex/" target="_blank">Scrollodex</a></td>
+    <td>Networking Tool</td><td>Women who code</td>
+    <td><a href="https://github.com/wwcodecolorado/scrollodex/pull/55" target="_blank">PR #55</a></td>
     <td>Merged</td>
   </tr>
   </table>
