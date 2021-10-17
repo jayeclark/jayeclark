@@ -87,9 +87,16 @@ Angular | C++ | Composer | CSS | Docker | Gatsby | Git | GraphQL | HTML | JavaSc
   </tr>
   <tr>
     <td>11</td>
-    <td><a href=https://github.com/wwcodecolorado/scrollodex/" target="_blank">Scrollodex</a></td>
+    <td><a href="https://github.com/wwcodecolorado/scrollodex/" target="_blank">Scrollodex</a></td>
     <td>Networking Tool</td><td>Women who code</td>
     <td><a href="https://github.com/wwcodecolorado/scrollodex/pull/55" target="_blank">PR #55</a></td>
-    <td>Merged</td>
+    <td>Submitted</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td><a href="https://github.com/Sickaada/Collate/" target="_blank">Collate</a></td>
+    <td>Chrome Extension</td><td>Developers</td>
+    <td><a href="https://github.com/Sickaada/Collate/pull/30" target="_blank">PR #30</a></td>
+    <td>Submitted</td>
   </tr>
   </table>
