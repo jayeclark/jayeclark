@@ -90,7 +90,7 @@ Angular | C | C++ | Composer | CSS | Docker | Gatsby | Git | GraphQL | HTML | Ja
     <td><a href="https://github.com/wwcodecolorado/scrollodex/" target="_blank">Scrollodex</a></td>
     <td>Networking Tool</td><td>Women who code</td>
     <td><a href="https://github.com/wwcodecolorado/scrollodex/pull/55" target="_blank">PR #55</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>
   <tr>
     <td>12</td>
