@@ -8,7 +8,7 @@ The most challenging part of joining a new development team is navigating a new,
 * **Long Term**: Have pull requests successfully merged into 100 open source repositories.
 
 # Technologies Touched
-Angular | C++ | Composer | CSS | Docker | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Node | PHP | React | Ruby | Ruby on Rails | RVM | SASS | Strapi | Typescript | Yarn
+Angular | C | C++ | Composer | CSS | Docker | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Node | PHP | Python | React | Ruby | Ruby on Rails | RVM | SASS | Strapi | Typescript | Yarn
 
 # Contribution Log
 <table>
