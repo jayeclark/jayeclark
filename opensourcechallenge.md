@@ -97,6 +97,13 @@ Angular | C | C++ | Composer | CSS | Docker | Gatsby | Git | GraphQL | HTML | Ja
     <td><a href="https://github.com/Sickaada/Collate/" target="_blank">Collate</a></td>
     <td>Chrome Extension</td><td>Developers</td>
     <td><a href="https://github.com/Sickaada/Collate/pull/30" target="_blank">PR #30</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
+  </tr>
+    <tr>
+    <td>12</td>
+    <td><a href="https://github.com/linkret/CrosseyCircley/" target="_blank">CrossleyCircley</a></td>
+    <td>Browser-based game</td><td>Consumers</td>
+    <td><a href="https://github.com/linkret/CrosseyCircley/pull/21" target="_blank">PR #21</a></td>
+    <td>Merged</td>
   </tr>
   </table>
