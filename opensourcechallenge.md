@@ -111,6 +111,6 @@ Angular | C | C++ | Composer | CSS | Docker | Gatsby | Git | GraphQL | HTML | Ja
     <td><a href="https://github.com/tyler-morales/game-night/" target="_blank">Game Night</a></td>
     <td>Game night tracking app</td><td>Consumers</td>
     <td><a href="https://github.com/tyler-morales/game-night/pull/45" target="_blank">PR #45</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>
   </table>
