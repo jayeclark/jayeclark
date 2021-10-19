@@ -101,7 +101,7 @@ Angular | C | C++ | Composer | CSS | Docker | Flutter | Gatsby | Git | GraphQL |
   </tr>
   <tr>
     <td>13</td>
-    <td><a href="https://github.com/linkret/CrosseyCircley/" target="_blank">CrossleyCircley</a></td>
+    <td><a href="https://github.com/linkret/CrosseyCircley/" target="_blank">Crossey Circley</a></td>
     <td>Browser-based game</td><td>Consumers</td>
     <td><a href="https://github.com/linkret/CrosseyCircley/pull/21" target="_blank">PR #21</a></td>
     <td>Merged</td>
