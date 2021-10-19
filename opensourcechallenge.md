@@ -113,4 +113,11 @@ Angular | C | C++ | Composer | CSS | Docker | Flutter | Gatsby | Git | GraphQL |
     <td><a href="https://github.com/tyler-morales/game-night/pull/45" target="_blank">PR #45</a></td>
     <td>Merged</td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td><a href="https://github.com/hackforla/food-oasis/" target="_blank">Food Oasis</a></td>
+    <td>Free food locator app</td><td>Consumers</td>
+    <td><a href="https://github.com/hackforla/food-oasis/pull/1056" target="_blank">PR #1056</a></td>
+    <td>Merged</td>
+  </tr>
   </table>
