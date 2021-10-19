@@ -1,6 +1,6 @@
 # Open Source Challenge
 
-The most challenging part of joining a new development team is navigating a new, unknown code base and adapting to new technologies and new stacks. To build this foundational skill, I've embarked on a challenge that requires me to rapidly get up to speed on, navigate, and create local development environments for new code bases.
+The most challenging part of joining a new development team is navigating a novel code base and adapting to new technologies and stacks. To practice this skill, I've embarked on a challenge that requires me to rapidly get up to speed on, navigate, and create local development environments for new code bases.
 
 ## Goals  
 * **Base (14% complete)**: Open pull requests against 100 open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.)
@@ -118,6 +118,13 @@ Angular | C | C++ | Composer | CSS | Docker | Flutter | Gatsby | Git | GraphQL |
     <td><a href="https://github.com/hackforla/food-oasis/" target="_blank">Food Oasis</a></td>
     <td>Free food locator app</td><td>Consumers</td>
     <td><a href="https://github.com/hackforla/food-oasis/pull/1056" target="_blank">PR #1056</a></td>
+    <td>Submitted</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td><a href="https://github.com/Irev-Dev/cadhub/" target="_blank">Cadhub</a></td>
+    <td>CodeCAD model repository and live editor</td><td>Engineers</td>
+    <td><a href="https://github.com/Irev-Dev/cadhub/pull/565" target="_blank">PR #565</a></td>
     <td>Submitted</td>
   </tr>
   </table>
