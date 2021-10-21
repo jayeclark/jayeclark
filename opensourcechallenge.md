@@ -139,6 +139,6 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/pulkit-30/React-Todo/" target="_blank">Todo List</a></td>
     <td>Learning/practice project</td><td>N/A</td>
     <td><a href="https://github.com/pulkit-30/React-Todo/pull/10" target="_blank">PR #10</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>
   </table>
