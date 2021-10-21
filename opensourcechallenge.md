@@ -127,11 +127,18 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/Irev-Dev/cadhub/pull/565" target="_blank">PR #565</a></td>
     <td>Merged</td>
   </tr>
-    <tr>
+  <tr>
     <td>17</td>
     <td><a href="https://github.com/diamondzxd/convertffs/" target="_blank">ConvertFFS</a></td>
     <td>GTA mod converter tool</td><td>Gamers</td>
     <td><a href="https://github.com/diamondzxd/convertffs/pull/4" target="_blank">PR #4</a></td>
+    <td>Merged</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td><a href="https://github.com/pulkit-30/React-Todo/" target="_blank">Todo List</a></td>
+    <td>Learning/practice project</td><td>N/A</td>
+    <td><a href="https://github.com/pulkit-30/React-Todo/pull/10" target="_blank">PR #10</a></td>
     <td>Submitted</td>
   </tr>
   </table>
