@@ -8,7 +8,7 @@ The most challenging part of joining a new development team is navigating a nove
 * **Long Term (17% complete)**: Have pull requests successfully merged into 100 open source repositories.
 
 # Technologies Touched
-Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Node | PHP | Postgres | Python | React | Ruby | Ruby on Rails | RVM | SASS | Strapi | Typescript | XCode | Yarn
+Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Node | PHP | Postgres | Python | React | Ruby | Ruby on Rails | RVM | SASS | Strapi | Typescript | Vue | XCode | Yarn
 
 # Contribution Log
 <table>
