@@ -162,4 +162,11 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/Train-Set-Software/off-the-rails/pull/12" target="_blank">PR #12</a></td>
     <td>Submitted</td>
   </tr>  
+  <tr>
+    <td>22</td>
+    <td><a href="https://github.com/chatwoot/chatwoot/" target="_blank">Chatwoot</a></td>
+    <td>Open-source live support chat software</td><td>Consumers</td>
+    <td><a href="https://github.com/chatwoot/chatwoot/pull/3268" target="_blank">PR #3268</a></td>
+    <td>Draft</td>
+  </tr>  
 </table>
