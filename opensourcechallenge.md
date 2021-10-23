@@ -18,21 +18,25 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
   <tr>
     <td>1</td>
     <td><a href="https://github.com/MetaMask/metamask-extension" target="_blank">MetaMask Extension</a></td>
-    <td>Ethereum wallet chrome extension</td><td>Consumers</td>
+    <td>Ethereum wallet chrome extension<br><a href="https://GitHub.com/MetaMask/metamask-extension/releases/"><img src="https://img.shields.io/github/downloads/MetaMask/metamask-extension/total.svg"></a></td><td>Consumers</td>
     <td><a href="https://github.com/MetaMask/metamask-extension/pull/12331" target="_blank">PR #12331</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>2</td>
     <td><a href="https://github.com/layer5io/layer5" target="_blank">Layer5</a></td>
-    <td>Website</td><td>Developers</td>
+    <td>Website<br>
+      <a href="https://GitHub.com/layer5io/layer5/network/"><img src="https://badgen.net/github/forks/layer5io/layer5/"></a>
+    </td><td>Developers</td>
     <td><a href="https://github.com/layer5io/layer5/pull/2265" target="_blank">PR #2265</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>3</td>
     <td><a href="https://github.com/o3de/o3de.org" target="_blank">Open 3D Engine</a></td>
-    <td>3D Graphics Engine</td><td>Game developers</td>
+    <td>3D Graphics Engine<br>
+      <a href="https://GitHub.com/o3de/o3de.org/network/"><img src="https://badgen.net/github/forks/o3de/o3de.org/"></a>
+    </td><td>Game developers</td>
     <td><a href="https://github.com/o3de/o3de.org/pull/1035" target="_blank">PR #1035</a></td>
     <td>Merged</td>
   </tr>
@@ -74,14 +78,18 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
   <tr>
     <td>9</td>
     <td><a href="https://github.com/ploomber/ploomber/" target="_blank">Ploomber</a></td>
-    <td>Workflow Orchestrator</td><td>Developers</td>
+    <td>Workflow Orchestrator<br>
+      <a href="https://GitHub.com/ploomber/ploomber/network/"><img src="https://badgen.net/github/forks/ploomber/ploomber/"></a>
+    </td><td>Developers</td>
     <td><a href="https://github.com/ploomber/ploomber/pull/371" target="_blank">PR #371</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>10</td>
     <td><a href="https://github.com/espoo-dev/espoo-dev/" target="_blank">Espoo</a></td>
-    <td>Learning Platform</td><td>Students</td>
+    <td>Learning Platform<br>
+      <a href="https://GitHub.com/espoo-dev/espoo-dev/network/"><img src="https://badgen.net/github/forks/espoo-dev/espoo-dev/"></a>
+    </td><td>Students</td>
     <td><a href="https://github.com/espoo-dev/espoo-dev/pull/364" target="_blank">PR #364</a></td>
     <td>Merged</td>
   </tr>
@@ -116,14 +124,18 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
   <tr>
     <td>15</td>
     <td><a href="https://github.com/hackforla/food-oasis/" target="_blank">Food Oasis</a></td>
-    <td>Free food locator app</td><td>Consumers</td>
+    <td>Free food locator app<br>
+      <a href="https://GitHub.com/hackforla/food-oasis/network/"><img src="https://badgen.net/github/forks/hackforla/food-oasis/"></a>
+    </td><td>Consumers</td>
     <td><a href="https://github.com/hackforla/food-oasis/pull/1056" target="_blank">PR #1056</a></td>
     <td>Submitted</td>
   </tr>
   <tr>
     <td>16</td>
     <td><a href="https://github.com/Irev-Dev/cadhub/" target="_blank">Cadhub</a></td>
-    <td>CodeCAD model repository and live editor</td><td>Engineers</td>
+    <td>CodeCAD model repository and live editor<br>
+      <a href="https://GitHub.com/Irev-Dev/cadhub/network/"><img src="https://badgen.net/github/forks/Irev-Dev/cadhub/"></a>
+    </td><td>Engineers</td>
     <td><a href="https://github.com/Irev-Dev/cadhub/pull/565" target="_blank">PR #565</a></td>
     <td>Merged</td>
   </tr>
@@ -165,7 +177,9 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
   <tr>
     <td>22</td>
     <td><a href="https://github.com/chatwoot/chatwoot/" target="_blank">Chatwoot</a></td>
-    <td>Open-source live support chat software</td><td>Consumers</td>
+    <td>Open-source live support chat software<br>
+      <a href="https://GitHub.com/chatwoot/chatwoot/network/"><img src="https://badgen.net/github/forks/chatwoot/chatwoot/"></a>
+   </td><td>Consumers</td>
     <td><a href="https://github.com/chatwoot/chatwoot/pull/3268" target="_blank">PR #3268</a></td>
     <td>Submitted</td>
   </tr>  
