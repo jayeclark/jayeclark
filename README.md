@@ -21,9 +21,7 @@ Here are some guides & articles I've put together!
 [Favorite JavaScript shortcuts](https://github.com/jayeclark/jayeclark/blob/main/jsShortcuts.md) |
 [Intro Tour of Codewars](https://jayeclark.github.io/resources/tour.html) |
 [Recommended Beginner Codewars Challenges](https://jayeclark.github.io/resources/codewars.html)
-<script>
-    const test = 'Testing js embeds';
-</script>
+
 <!---
 jayeclark/jayeclark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
