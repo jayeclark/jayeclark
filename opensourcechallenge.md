@@ -183,11 +183,18 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/chatwoot/chatwoot/pull/3268" target="_blank">PR #3268</a></td>
     <td>Merged</td>
   </tr>  
-    <tr>
+  <tr>
     <td>23</td>
     <td><a href="https://github.com/Sarthaknegigit/" target="_blank">Open To Do List</a></td>
     <td>Practice Project</td><td>Developers</td>
     <td><a href="https://github.com/Sarthaknegigit/Open-TodoList/pull/14" target="_blank">PR #14</a></td>
     <td>Submitted</td>
+  </tr>  
+  <tr>
+    <td>24</td>
+    <td><a href=" https://github.com/britecharts/britecharts/" target="_blank">Britecharts</a></td>
+    <td>Chart library</td><td>Developers</td>
+    <td><a href=" https://github.com/britecharts/britecharts/pull/960" target="_blank">PR #960</a></td>
+    <td>Draft</td>
   </tr>  
 </table>
