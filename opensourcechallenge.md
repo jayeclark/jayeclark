@@ -3,7 +3,7 @@
 The most challenging part of joining a new development team is navigating a novel code base and adapting to new technologies and stacks. To practice this skill, I've embarked on a challenge that involves rapidly getting up to speed on, navigating, and creating local development environments for new code bases.
 
 ## Goals  
-* **Base (26% complete)**: Submit pull requests against 100 different open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.)
+* **Base (27% complete)**: Submit pull requests against 100 different open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.)
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021)*
 * **Long Term (21% complete)**: Have pull requests successfully merged into 100 open source repositories.
 
@@ -210,5 +210,12 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td>Birthday reminder app</td><td>Consumers</td>
     <td><a href="https://github.com/niloysikdar/RememBirth/pull/28" target="_blank">PR #28</a></td>
     <td>Draft</td>
-  </tr>    
+  </tr>  
+  <tr>
+    <td>27</td>
+    <td><a href="https://github.com/shivansh361/Euphoria-technologies/" target="_blank">Euphoria Technologies</a></td>
+    <td>Marketing site</td><td>Companies</td>
+    <td><a href="https://github.com/shivansh361/Euphoria-technologies/pull/30" target="_blank">PR #30</a></td>
+    <td>Draft</td>
+  </tr>  
 </table>
