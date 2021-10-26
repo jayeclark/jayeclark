@@ -128,7 +128,7 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
       <a href="https://GitHub.com/hackforla/food-oasis/network/"><img src="https://badgen.net/github/forks/hackforla/food-oasis/"></a>
     </td><td>Consumers</td>
     <td><a href="https://github.com/hackforla/food-oasis/pull/1056" target="_blank">PR #1056</a></td>
-    <td>Submitted</td>
+    <td>Rejected</td>
   </tr>
   <tr>
     <td>16</td>
