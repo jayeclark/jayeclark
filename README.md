@@ -5,7 +5,7 @@ Hello world, I’m [@jayeclark](https://www.linkedin.com/in/jayeclark) and I sta
 ## Contributing
 I'm very interested in contributing to projects on a volunteer basis.  
     
-At the moment I'm in the middle of an [Open Source Challenge](https://github.com/jayeclark/jayeclark/blob/main/opensourcechallenge.md) to submit valid, useful pull requests against **100 open source projects in 100 days** - so I may not have the free time to contribute more than once to a repository until I complete that challenge. But please feel free to reach out if you like my work and would like additional contributions from me in the future!
+At the moment I'm in the middle of an [Open Source Challenge](https://github.com/jayeclark/jayeclark/blob/main/opensourcechallenge.md) to submit **100 non-trivial pull requests in 100 days** - so I may not have the free time to contribute more than once to a repository until I complete that challenge. But please feel free to reach out if you like my work and would like additional contributions from me in the future!
 
 ## Versions
 
