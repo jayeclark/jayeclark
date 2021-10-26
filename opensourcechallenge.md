@@ -223,7 +223,7 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td>28</td>
     <td><a href="https://github.com/britecharts/britecharts/" target="_blank">Britecharts</a></td>
     <td>Chart library</td><td>Developers</td>
-    <td><a href="https://github.com/britecharts/britecharts/pull/964" target="_blank">PR 964</a></td>
+    <td><a href="https://github.com/britecharts/britecharts/pull/964" target="_blank">PR #964</a></td>
     <td>Merged</td>
   </tr>  
 </table>
