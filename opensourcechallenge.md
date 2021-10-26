@@ -209,6 +209,6 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/niloysikdar/RememBirth/" target="_blank">RememBirth</a></td>
     <td>Birthday reminder app</td><td>Consumers</td>
     <td><a href="https://github.com/niloysikdar/RememBirth/pull/28" target="_blank">PR #28</a></td>
-    <td>Submitted</td>
+    <td>Draft</td>
   </tr>    
 </table>
