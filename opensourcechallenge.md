@@ -210,20 +210,20 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/niloysikdar/RememBirth/" target="_blank">RememBirth</a></td>
     <td>Birthday reminder app</td><td>Consumers</td>
     <td><a href="https://github.com/niloysikdar/RememBirth/pull/28" target="_blank">PR #28</a></td>
-    <td>Draft</td>
+    <td>Submitted</td>
   </tr>  
   <tr>
     <td>27</td>
     <td><a href="https://github.com/shivansh361/Euphoria-technologies/" target="_blank">Euphoria Technologies</a></td>
     <td>Marketing site</td><td>Companies</td>
     <td><a href="https://github.com/shivansh361/Euphoria-technologies/pull/30" target="_blank">PR #30</a></td>
-    <td>Draft</td>
+    <td>Submitted</td>
   </tr>  
   <tr>
     <td>28</td>
     <td><a href="https://github.com/britecharts/britecharts/" target="_blank">Britecharts</a></td>
     <td>Chart library</td><td>Developers</td>
     <td><a href="https://github.com/britecharts/britecharts/pull/964" target="_blank">PR 964</a></td>
-    <td>Draft</td>
+    <td>Merged</td>
   </tr>  
 </table>
