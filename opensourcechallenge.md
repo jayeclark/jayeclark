@@ -245,7 +245,7 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/jamie-sgro/dashboard/" target="_blank">Canada SDG Cities Dashboard</a></td>
     <td>Sustainable development dashboard</td><td>Urban planners & activists</td>
     <td><a href="https://github.com/jamie-sgro/dashboard/pull/36" target="_blank">PR #36</a></td>
-    <td>Submitted</td>
+    <td>Approved</td>
   </tr> 
   <tr>
     <td>32</td>
