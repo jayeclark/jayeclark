@@ -5,7 +5,7 @@ The most challenging part of joining a new development team is navigating a nove
 ## Goals  
 * **Base (32% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021)*
-* **Long Term (27% complete)**: Have 100 pull requests successfully merged into open source repositories.
+* **Long Term (26% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies Touched
 Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Node | PHP | Postgres | Python | React | Ruby | Ruby on Rails | RVM | SASS | Strapi | Typescript | Vue | XCode | Yarn
@@ -245,7 +245,7 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/jamie-sgro/dashboard/" target="_blank">Canada SDG Cities Dashboard</a></td>
     <td>Sustainable development dashboard</td><td>Urban planners & activists</td>
     <td><a href="https://github.com/jamie-sgro/dashboard/pull/36" target="_blank">PR #36</a></td>
-    <td>Merged</td>
+    <td>Submitted</td>
   </tr> 
   <tr>
     <td>32</td>
