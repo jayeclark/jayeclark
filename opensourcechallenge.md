@@ -188,7 +188,7 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/Sarthaknegigit/" target="_blank">Open To Do List</a></td>
     <td>Practice Project</td><td>Developers</td>
     <td><a href="https://github.com/Sarthaknegigit/Open-TodoList/pull/14" target="_blank">PR #14</a></td>
-    <td>Submitted</td>
+    <td>Submitted, unresponsive</td>
   </tr>  
   <tr>
     <td>24</td>
