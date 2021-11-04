@@ -217,7 +217,7 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/shivansh361/Euphoria-technologies/" target="_blank">Euphoria Technologies</a></td>
     <td>Marketing site</td><td>Companies</td>
     <td><a href="https://github.com/shivansh361/Euphoria-technologies/pull/30" target="_blank">PR #30</a></td>
-    <td>Submitted</td>
+    <td>Submitted, unresponsive</td>
   </tr>  
   <tr>
     <td>28</td>
