@@ -268,4 +268,11 @@ Angular | C | C++ | Composer | CSS | Docker | Firebase | Flutter | Gatsby | Git 
     <td><a href="https://github.com/robotichead/NearBeach/pull/331" target="_blank">PR #331</a></td>
     <td>Merged</td>
   </tr> 
+    <tr>
+    <td>35</td>
+    <td><a href="https://github.com/FotieMConstant/kemeet/" target="_blank">KéMeet</a></td>
+    <td>Open source Zoom alternativee</td><td>Anyone who uses Zoom</td>
+    <td><a href="https://github.com/FotieMConstant/kemeet/pull/4" target="_blank">PR #4</a></td>
+    <td>Submitted</td>
+  </tr>
 </table>
