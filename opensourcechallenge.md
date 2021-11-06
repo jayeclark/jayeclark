@@ -285,7 +285,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Docker | Firebase | Flutter 
     <tr>
     <td>37</td>
     <td><a href="https://github.com/codeisscience/journal-policy-tracker-frontend/" target="_blank">Code is Science Website</a></td>
-    <td>Movement promoting open source code in scientific projects</td><td>Coders</td>
+    <td>Movement promoting open source code in scientific projects</td><td>Coders & scientists</td>
     <td><a href="https://github.com/codeisscience/journal-policy-tracker-frontend/pull/48" target="_blank">PR #148</a></td>
     <td>Submitted</td>
   </tr>
