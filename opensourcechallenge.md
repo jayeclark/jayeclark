@@ -282,4 +282,11 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Docker | Firebase | Flutter 
     <td><a href="https://github.com/mikhael28/paretOS/pull/129" target="_blank">PR #129</a></td>
     <td>Draft</td>
   </tr>
+    <tr>
+    <td>37</td>
+    <td><a href="https://github.com/codeisscience/journal-policy-tracker-frontend/" target="_blank">Code is Science Website</a></td>
+    <td>Movement promoting open source code in scientific projects</td><td>Coders</td>
+    <td><a href="https://github.com/codeisscience/journal-policy-tracker-frontend/pull/48" target="_blank">PR #148</a></td>
+    <td>Submitted</td>
+  </tr>
 </table>
