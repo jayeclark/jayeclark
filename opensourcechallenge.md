@@ -13,12 +13,12 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
 # Contribution Log
 <table>
   <tr>
-    <td><b>#</b></td><td><b>Repository</b></td><td><b>Type of Software</b></td><td><b>Audience</b></td><td><b>Pull Request</b></td><td><b>Status</b></td>
+    <td><b>#</b></td><td><b>Repository</b></td><td><b>Type of Software</b></td><td><b>Type of Work</b></td><td><b>Pull Request</b></td><td><b>Status</b></td>
   </tr>
   <tr>
     <td>1</td>
     <td><a href="https://github.com/MetaMask/metamask-extension" target="_blank">MetaMask Extension</a></td>
-    <td>Ethereum wallet chrome extension<br><a href="https://GitHub.com/MetaMask/metamask-extension/releases/"><img src="https://img.shields.io/github/downloads/MetaMask/metamask-extension/total.svg"></a></td><td>Consumers</td>
+    <td>Ethereum wallet chrome extension<br><a href="https://GitHub.com/MetaMask/metamask-extension/releases/"><img src="https://img.shields.io/github/downloads/MetaMask/metamask-extension/total.svg"></a></td><td>Fix UI bug</td>
     <td><a href="https://github.com/MetaMask/metamask-extension/pull/12331" target="_blank">PR #12331</a></td>
     <td>Merged</td>
   </tr>
@@ -27,7 +27,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/layer5io/layer5" target="_blank">Layer5</a></td>
     <td>Website<br>
       <a href="https://GitHub.com/layer5io/layer5/network/"><img src="https://badgen.net/github/forks/layer5io/layer5/"></a>
-    </td><td>Developers</td>
+    </td><td>Correct font style properties</td>
     <td><a href="https://github.com/layer5io/layer5/pull/2265" target="_blank">PR #2265</a></td>
     <td>Merged</td>
   </tr>
@@ -36,42 +36,42 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/o3de/o3de.org" target="_blank">Open 3D Engine</a></td>
     <td>3D Graphics Engine<br>
       <a href="https://GitHub.com/o3de/o3de.org/network/"><img src="https://badgen.net/github/forks/o3de/o3de.org/"></a>
-    </td><td>Game developers</td>
+    </td><td>Standardize documentation</td>
     <td><a href="https://github.com/o3de/o3de.org/pull/1035" target="_blank">PR #1035</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>4</td>
     <td><a href="https://github.com/spazure/react-social-icons" target="_blank">React-social-icons</a></td>
-    <td>React icon library</td><td>Developers</td>
+    <td>React icon library</td><td>Fix icon sizing issue</td>
     <td><a href="https://github.com/spazure/react-social-icons/pull/2" target="_blank">PR #12</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>5</td>
     <td><a href="https://github.com/Ricochet-Exchange/ricochet-frontend" target="_blank">Ricochet Exchange</a></td>
-    <td>Blockchain investing</td><td>Consumers</td>
+    <td>Blockchain investing</td><td>Fix meta-description of app</td>
     <td><a href="https://github.com/Ricochet-Exchange/ricochet-frontend/pull/37" target="_blank">PR #37</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>6</td>
     <td><a href="https://github.com/ACM-VIT/certify" target="_blank">Certify</a></td>
-    <td>Certificate generator</td><td>Educational Orgs</td>
+    <td>Certificate generator</td><td>Create file upload input fields component</td>
     <td><a href="https://github.com/ACM-VIT/certify/pull/23" target="_blank">PR #23</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>7</td>
     <td><a href="https://github.com/DeGrandis/canvas-dark-mode" target="_blank">Canvas Dark Mode</a></td>
-    <td>Chrome Extension</td><td>Educational Orgs</td>
+    <td>Chrome Extension</td><td>Fix CSS bugs</td>
     <td><a href="https://github.com/DeGrandis/canvas-dark-mode/pull/13" target="_blank">PR #13</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>8</td>
     <td><a href="https://github.com/wh1zk1d/pomo" target="_blank">Pomo</a></td>
-    <td>Productivity App</td><td>Consumers</td>
+    <td>Productivity App</td><td>Make design responsive</td>
     <td><a href="https://github.com/wh1zk1d/pomo/pull/18" target="_blank">PR #18</a></td>
     <td>Merged</td>
   </tr>
@@ -80,7 +80,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/ploomber/ploomber/" target="_blank">Ploomber</a></td>
     <td>Workflow Orchestrator<br>
       <a href="https://GitHub.com/ploomber/ploomber/network/"><img src="https://badgen.net/github/forks/ploomber/ploomber/"></a>
-    </td><td>Developers</td>
+    </td><td>Fix JavaScript section-highlighting-on-scroll bug</td>
     <td><a href="https://github.com/ploomber/ploomber/pull/371" target="_blank">PR #371</a></td>
     <td>Merged</td>
   </tr>
@@ -89,7 +89,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/espoo-dev/espoo-dev/" target="_blank">Espoo</a></td>
     <td>Learning Platform<br>
       <a href="https://GitHub.com/espoo-dev/espoo-dev/network/"><img src="https://badgen.net/github/forks/espoo-dev/espoo-dev/"></a>
-    </td><td>Students</td>
+    </td><td>Fix UI bug</td>
     <td><a href="https://github.com/espoo-dev/espoo-dev/pull/364" target="_blank">PR #364</a></td>
     <td>Merged</td>
   </tr>
@@ -103,21 +103,21 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
   <tr>
     <td>12</td>
     <td><a href="https://github.com/Sickaada/Collate/" target="_blank">Collate</a></td>
-    <td>Chrome Extension</td><td>Developers</td>
+    <td>Chrome Extension</td><td>Enhance frontend styling</td>
     <td><a href="https://github.com/Sickaada/Collate/pull/30" target="_blank">PR #30</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>13</td>
     <td><a href="https://github.com/linkret/CrosseyCircley/" target="_blank">Crossey Circley</a></td>
-    <td>Browser-based game</td><td>Consumers</td>
+    <td>Browser-based game</td><td>Fix game filter function</td>
     <td><a href="https://github.com/linkret/CrosseyCircley/pull/21" target="_blank">PR #21</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>14</td>
     <td><a href="https://github.com/tyler-morales/game-night/" target="_blank">Game Night</a></td>
-    <td>Game night tracking app</td><td>Consumers</td>
+    <td>Game night tracking app</td><td>Fix unintended form submission on 'show password' button click</td>
     <td><a href="https://github.com/tyler-morales/game-night/pull/45" target="_blank">PR #45</a></td>
     <td>Merged</td>
   </tr>
@@ -126,7 +126,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/hackforla/food-oasis/" target="_blank">Food Oasis</a></td>
     <td>Free food locator app<br>
       <a href="https://GitHub.com/hackforla/food-oasis/network/"><img src="https://badgen.net/github/forks/hackforla/food-oasis/"></a>
-    </td><td>Consumers</td>
+    </td><td>Refactor button component</td>
     <td><a href="https://github.com/hackforla/food-oasis/pull/1056" target="_blank">PR #1056</a></td>
     <td>Rejected</td>
   </tr>
@@ -135,42 +135,42 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/Irev-Dev/cadhub/" target="_blank">Cadhub</a></td>
     <td>CodeCAD model repository and live editor<br>
       <a href="https://GitHub.com/Irev-Dev/cadhub/network/"><img src="https://badgen.net/github/forks/Irev-Dev/cadhub/"></a>
-    </td><td>Engineers</td>
+    </td><td>Increase customizer input box width</td>
     <td><a href="https://github.com/Irev-Dev/cadhub/pull/565" target="_blank">PR #565</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>17</td>
     <td><a href="https://github.com/diamondzxd/convertffs/" target="_blank">ConvertFFS</a></td>
-    <td>GTA mod converter tool</td><td>Gamers</td>
+    <td>GTA mod converter tool</td><td>Make layout responsive</td>
     <td><a href="https://github.com/diamondzxd/convertffs/pull/4" target="_blank">PR #4</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>18</td>
     <td><a href="https://github.com/pulkit-30/React-Todo/" target="_blank">Todo List</a></td>
-    <td>Learning/practice project</td><td>N/A</td>
+    <td>Learning/practice project</td><td>Enhance task card styling</td>
     <td><a href="https://github.com/pulkit-30/React-Todo/pull/10" target="_blank">PR #10</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>19</td>
     <td><a href="https://github.com/novelrt/novelrt.github.io/" target="_blank">NovelRT</a></td>
-    <td>Open source game engine</td><td>Developers</td>
+    <td>Open source game engine</td><td>Fix hover effect on social icons</td>
     <td><a href="https://github.com/novelrt/novelrt.github.io/pull/37" target="_blank">PR #37</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>20</td>
     <td><a href="https://github.com/atuonufure/password-generate/" target="_blank">Password Generator</a></td>
-    <td>Practice project</td><td>Consumers</td>
+    <td>Practice project</td><td>Add copy button for password</td>
     <td><a href="https://github.com/atuonufure/password-generate/pull/3" target="_blank">PR #3</a></td>
     <td>Merged</td>
   </tr>  
   <tr>
     <td>21</td>
     <td><a href="https://github.com/Train-Set-Software/off-the-rails/" target="_blank">Off the Rails</a></td>
-    <td>URL Tracking Eliminator</td><td>Consumers</td>
+    <td>URL Tracking Eliminator</td><td>Make design responsive</td>
     <td><a href="https://github.com/Train-Set-Software/off-the-rails/pull/12" target="_blank">PR #12</a></td>
     <td>Merged</td>
   </tr>  
@@ -179,14 +179,14 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/chatwoot/chatwoot/" target="_blank">Chatwoot</a></td>
     <td>Open-source live support chat software<br>
       <a href="https://GitHub.com/chatwoot/chatwoot/network/"><img src="https://badgen.net/github/forks/chatwoot/chatwoot/"></a>
-   </td><td>Consumers</td>
+   </td><td>Fix UI bug</td>
     <td><a href="https://github.com/chatwoot/chatwoot/pull/3268" target="_blank">PR #3268</a></td>
     <td>Merged</td>
   </tr>  
   <tr>
     <td>23</td>
     <td><a href="https://github.com/Sarthaknegigit/" target="_blank">Open To Do List</a></td>
-    <td>Practice Project</td><td>Developers</td>
+    <td>Practice Project</td><td>Prevent form submission on hitting enter</td>
     <td><a href="https://github.com/Sarthaknegigit/Open-TodoList/pull/14" target="_blank">PR #14</a></td>
     <td>Submitted, unresponsive</td>
   </tr>  
@@ -194,119 +194,120 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td>24</td>
     <td><a href="https://github.com/britecharts/britecharts/" target="_blank">Britecharts</a></td>
     <td>Chart library<br>
-      <a href="https://GitHub.com/chatwoot/britecharts/britecharts/"><img src="https://badgen.net/github/forks/britecharts/britecharts/"></a></td><td>Developers</td>
+      <a href="https://GitHub.com/chatwoot/britecharts/britecharts/"><img src="https://badgen.net/github/forks/britecharts/britecharts/"></a></td>
+    <td>Refactor charts to use new grid helper</td>
     <td><a href="https://github.com/britecharts/britecharts/pull/960" target="_blank">PR #960</a></td>
     <td>Merged</td>
   </tr>  
   <tr>
     <td>25</td>
     <td><a href="https://github.com/tuhindasv0/tuhindasv0.github.io/" target="_blank">Portfolio</a></td>
-    <td>Personal portfolio</td><td>Github user's potential employers</td>
+    <td>Personal portfolio</td><td>Improve responsiveness of design</td>
     <td><a href="https://github.com/tuhindasv0/tuhindasv0.github.io/pull/2" target="_blank">PR #2</a></td>
     <td>Merged</td>
   </tr>  
   <tr>
     <td>26</td>
     <td><a href="https://github.com/niloysikdar/RememBirth/" target="_blank">RememBirth</a></td>
-    <td>Birthday reminder app</td><td>Consumers</td>
+    <td>Birthday reminder app</td><td>Make navbar responsive</td>
     <td><a href="https://github.com/niloysikdar/RememBirth/pull/28" target="_blank">PR #28</a></td>
     <td>Merged</td>
   </tr>  
   <tr>
     <td>27</td>
     <td><a href="https://github.com/shivansh361/Euphoria-technologies/" target="_blank">Euphoria Technologies</a></td>
-    <td>Marketing site</td><td>Companies</td>
+    <td>Marketing site</td><td>Implement dark mode</td>
     <td><a href="https://github.com/shivansh361/Euphoria-technologies/pull/30" target="_blank">PR #30</a></td>
     <td>Submitted, unresponsive</td>
   </tr>  
   <tr>
     <td>28</td>
     <td><a href="https://github.com/britecharts/britecharts/" target="_blank">Britecharts</a></td>
-    <td>Chart library</td><td>Developers</td>
+    <td>Chart library</td><td>Add y-axis 0 intercept highlight line</td>
     <td><a href="https://github.com/britecharts/britecharts/pull/964" target="_blank">PR #964</a></td>
     <td>Merged</td>
   </tr>  
   <tr>
     <td>29</td>
     <td><a href="https://github.com/Saifu0/promoteanybrand/" target="_blank">Promote Any Brand</a></td>
-    <td>Digital marketing site</td><td>Potential employers (portfolio project)</td>
+    <td>Digital marketing site</td><td>Fix footer positioning bug</td>
     <td><a href="https://github.com/Saifu0/promoteanybrand/pull/28" target="_blank">PR #28</a></td>
     <td>Merged</td>
   </tr>  
   <tr>
     <td>30</td>
     <td><a href="https://github.com/diamondzxd/convertffs/" target="_blank">ConvertFFS</a></td>
-    <td>GTA mod converter tool</td><td>Gamers</td>
+    <td>GTA mod converter tool</td><td>Make site responsive on mobile</td>
     <td><a href="https://github.com/diamondzxd/convertffs/pull/6" target="_blank">PR #6</a></td>
     <td>Merged</td>
   </tr> 
   <tr>
     <td>31</td>
     <td><a href="https://github.com/jamie-sgro/dashboard/" target="_blank">Canada SDG Cities Dashboard</a></td>
-    <td>Sustainable development dashboard</td><td>Urban planners & activists</td>
+    <td>Sustainable development dashboard</td><td>Increase bar plot stroke width & add highlighting</td>
     <td><a href="https://github.com/jamie-sgro/dashboard/pull/36" target="_blank">PR #36</a></td>
     <td>Merged</td>
   </tr> 
   <tr>
     <td>32</td>
     <td><a href="https://github.com/timskovjacobsen/steelprofiles_api/" target="_blank">Steel Profiles API</a></td>
-    <td>EU Steel Profiles API</td><td>Engineers</td>
+    <td>EU Steel Profiles API</td><td>Improve mobile layout</td>
     <td><a href="https://github.com/timskovjacobsen/steelprofiles_api/pull/14" target="_blank">PR #14</a></td>
     <td>Submitted</td>
   </tr> 
   <tr>
     <td>33</td>
     <td><a href="https://github.com/jamie-sgro/dashboard/" target="_blank">SDG Cities Dashboard</a></td>
-    <td>Sustainable development goals dashboard</td><td>Urban planners & activists</td>
+    <td>Sustainable development goals dashboard</td><td>Fix image overlap with y-axis ticks</td>
     <td><a href="https://github.com/jamie-sgro/dashboard/pull/39" target="_blank">PR #39</a></td>
     <td>Merged</td>
   </tr> 
   <tr>
     <td>34</td>
     <td><a href="https://github.com/robotichead/NearBeach/" target="_blank">Near Beach</a></td>
-    <td>Project management software</td><td>Project managers</td>
+    <td>Project management software</td><td>Add default values to props per Deepsource</td>
     <td><a href="https://github.com/robotichead/NearBeach/pull/331" target="_blank">PR #331</a></td>
     <td>Merged</td>
   </tr> 
   <tr>
     <td>35</td>
     <td><a href="https://github.com/FotieMConstant/kemeet/" target="_blank">KéMeet</a></td>
-    <td>Zoom alternativee</td><td>Anyone who uses Zoom</td>
+    <td>Zoom alternativee</td><td>Make appbar and home content responsive</td>
     <td><a href="https://github.com/FotieMConstant/kemeet/pull/4" target="_blank">PR #4</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>36</td>
     <td><a href="https://github.com/mikhael28/paretOS/" target="_blank">ParetOS</a></td>
-    <td>Gamified productivity platform</td><td>Coders</td>
+    <td>Gamified productivity platform</td><td>Enhance leaderboard functionality</td>
     <td><a href="https://github.com/mikhael28/paretOS/pull/129" target="_blank">PR #129</a></td>
     <td>Draft</td>
   </tr>
   <tr>
     <td>37</td>
     <td><a href="https://github.com/codeisscience/journal-policy-tracker-frontend/" target="_blank">Code is Science Website</a></td>
-    <td>Movement promoting open source code in scientific projects</td><td>Coders & scientists</td>
+    <td>Movement promoting open source code in scientific projects</td><td>Reorganize file structure</td>
     <td><a href="https://github.com/codeisscience/journal-policy-tracker-frontend/pull/48" target="_blank">PR #148</a></td>
     <td>Submitted</td>
   </tr>
   <tr>
     <td>38</td>
     <td><a href="https://github.com/Leyline-gg/leyline-discord/" target="_blank">Leyline GG Discord Bot</a></td>
-    <td>Discord bot for social good NFT project</td><td>Discord users</td>
+    <td>Discord bot for social good NFT project</td><td>Fix approver logging bug (JavaScript)</td>
     <td><a href="https://github.com/Leyline-gg/leyline-discord/pull/124" target="_blank">PR #124</a></td>
     <td>Merged</td>
   </tr>
   <tr>
     <td>39</td>
     <td><a href="https://github.com/sonic-pi-net/sonic-pi/" target="_blank">Sonic Pi</a></td>
-    <td>Musical coding language/program</td><td>Students</td>
+    <td>Musical coding language/program</td><td>Prevent infinite loop in function (Ruby)</td>
     <td><a href="https://github.com/sonic-pi-net/sonic-pi/pull/2922" target="_blank">PR #2922</a></td>
     <td>Merged</td>
   </tr>
     <tr>
     <td>40</td>
     <td><a href="https://github.com/borgbase/vorta/" target="_blank">Vorta</a></td>
-    <td>Desktop Backup Client for Borg</td><td>Developers</td>
+    <td>Desktop Backup Client for Borg</td><td>Fix next_job timing display bug (Python)</td>
     <td><a href="https://github.com/borgbase/vorta/pull/1100" target="_blank">PR #1100</a></td>
     <td>Draft</td>
   </tr>
