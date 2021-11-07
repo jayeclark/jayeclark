@@ -301,7 +301,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/sonic-pi-net/sonic-pi/" target="_blank">Sonic Pi</a></td>
     <td>Musical coding language/program</td><td>Students</td>
     <td><a href="https://github.com/sonic-pi-net/sonic-pi/pull/2922" target="_blank">PR #2922</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>
     <tr>
     <td>40</td>
