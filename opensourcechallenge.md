@@ -8,7 +8,7 @@ The most challenging part of joining a new development team is navigating a nove
 * **Long Term (32% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies Touched
-Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Firebase | Flutter | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Leiningen | MongoDB | MySQL | .NET | Node | Nodemon | PHP | Postgres | Python | Rake | React | Ruby | Ruby on Rails | RVM | SASS | Strapi | Tailwind | Typescript | Vue | XCode | Yarn
+Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Firebase | Flutter | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Leiningen | MongoDB | MySQL | .NET | Node | Nodemon | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | SASS | Strapi | Tailwind | Typescript | Vue | XCode | Yarn
 
 # Contribution Log
 <table>
@@ -302,5 +302,12 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td>Musical coding language/program</td><td>Students</td>
     <td><a href="https://github.com/sonic-pi-net/sonic-pi/pull/2922" target="_blank">PR #2922</a></td>
     <td>Submitted</td>
+  </tr>
+    <tr>
+    <td>40</td>
+    <td><a href="https://github.com/borgbase/vorta/" target="_blank">Vorta</a></td>
+    <td>Desktop Backup Client for Borg</td><td>Developers</td>
+    <td><a href="https://github.com/borgbase/vorta/pull/1100" target="_blank">PR #1100</a></td>
+    <td>Draft</td>
   </tr>
 </table>
