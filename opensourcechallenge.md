@@ -313,9 +313,16 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
   </tr>
   <tr>
     <td>41</td>
-    <td><a href="https://github.com/borgbase/vorta/" target="_blank">Covid Tracker App</a></td>
+    <td><a href="https://github.com/mike-shields-dev/covid-app" target="_blank">Covid Tracker App</a></td>
     <td>Graph of recent covid cases</td><td>Add UI styling and improve interactivity</td>
-    <td><a href=" https://github.com/mike-shields-dev/covid-app/pull/22" target="_blank">PR #22</a></td>
+    <td><a href="https://github.com/mike-shields-dev/covid-app/pull/22" target="_blank">PR #22</a></td>
+    <td>Submitted</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td><a href="https://github.com/fabian-peters/subathon-timer/" target="_blank">Subathon Timer</a></td>
+    <td>Twitch subathon timer widget</td><td>Refactor settings page into tabs</td>
+    <td><a href="https://github.com/fabian-peters/subathon-timer/pull/27" target="_blank">PR #27</a></td>
     <td>Submitted</td>
   </tr>
 </table>
