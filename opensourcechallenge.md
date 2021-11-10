@@ -3,7 +3,7 @@
 The most challenging part of joining a new development team is navigating a novel code base and adapting to new technologies and stacks. To practice this skill, I've embarked on a challenge that involves rapidly getting up to speed on, navigating, and creating local development environments for new code bases.
 
 ## Goals  
-* **Base (43% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
+* **Base (44% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 71)*
 * **Long Term (34% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
@@ -330,6 +330,13 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/fabian-peters/subathon-timer/" target="_blank">Awesome Developer Streams List</a></td>
     <td>List of Twitch streamers who focus on coding</td><td>Fix broken URLs</td>
     <td><a href="https://github.com/bnb/awesome-developer-streams/pull/292" target="_blank">PR #292</a></td>
+    <td>Submitted</td>
+  </tr>
+    <tr>
+    <td>44</td>
+    <td><a href="https://github.com/Esri/calcite-components/" target="_blank">Calcite Components</a></td>
+    <td>Web component library for the Calcite design system</td><td>Fix font variables</td>
+    <td><a href="https://github.com/Esri/calcite-components/pull/3480" target="_blank">PR #3480</a></td>
     <td>Submitted</td>
   </tr>
 </table>
