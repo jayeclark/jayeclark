@@ -337,6 +337,6 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/Esri/calcite-components/" target="_blank">Calcite Components</a></td>
     <td>Web component library for the Calcite design system</td><td>Fix font variables</td>
     <td><a href="https://github.com/Esri/calcite-components/pull/3480" target="_blank">PR #3480</a></td>
-    <td>Submitted</td>
+    <td>Approved</td>
   </tr>
 </table>
