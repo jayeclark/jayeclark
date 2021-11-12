@@ -5,7 +5,7 @@ The most challenging part of joining a new development team is navigating a nove
 ## Goals  
 * **Base (46% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 69)*
-* **Long Term (37% complete)**: Have 100 pull requests successfully merged into open source repositories.
+* **Long Term (38% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies Touched
 Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Firebase | Flutter | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Leiningen | MongoDB | MySQL | .NET | Node | Nodemon | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | SASS | Strapi | Tailwind | Typescript | Unity | Vue | XCode | Yarn
@@ -323,7 +323,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/fabian-peters/subathon-timer/" target="_blank">Subathon Timer</a></td>
     <td>Twitch subathon timer widget</td><td>Refactor settings page into tabs</td>
     <td><a href="https://github.com/fabian-peters/subathon-timer/pull/27" target="_blank">PR #27</a></td>
-    <td>Submitted</td>
+    <td>Approved</td>
   </tr>
   <tr>
     <td>43</td>
@@ -337,7 +337,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | Fireb
     <td><a href="https://github.com/Esri/calcite-components/" target="_blank">Calcite Components</a></td>
     <td>Web component library for the Calcite design system</td><td>Fix font variables</td>
     <td><a href="https://github.com/Esri/calcite-components/pull/3480" target="_blank">PR #3480</a></td>
-    <td>Approved</td>
+    <td>Merged (indirectly)</td>
   </tr>
   <tr>
     <td>45</td>
