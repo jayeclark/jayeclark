@@ -8,7 +8,7 @@ The most challenging part of joining a new development team is navigating a nove
 * **Long Term (41% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies, Libraries and Standards Touched
-Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS | Firebase | Flutter | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Leiningen | MongoDB | MySQL | .NET | Node | Nodemon | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | SASS | StandardJS | Strapi | Tailwind | Typescript | Unity | Vue | XCode | Yarn
+Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS | ESLint | Firebase | Flutter | Gatsby | Git | GraphQL | HTML | JavaScript | Laravel | Leiningen | MongoDB | MySQL | .NET | Node | Nodemon | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | SASS | StandardJS | Strapi | Tailwind | Typescript | Unity | Vue | XCode | Yarn
 
 # Contribution Log
 <table>
