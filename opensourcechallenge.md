@@ -367,4 +367,11 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/ApoorvaKaushal09/hivCare-Main/pull/2" target="_blank">PR #2</a></td>
     <td>Merged</td>
   </tr>
+  <tr>
+    <td>49</td>
+    <td><a href="https://github.com/MaibornWolff/" target="_blank">Code Charta</a></td>
+    <td>Code visualization app</td><td>Fix nonfunctional button hover effect.</td>
+    <td><a href="https://github.com/MaibornWolff/codecharta/pull/2512" target="_blank">PR #2512</a></td>
+    <td>Submitted</td>
+  </tr>
 </table>
