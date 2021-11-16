@@ -374,4 +374,11 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/MaibornWolff/codecharta/pull/2512" target="_blank">PR #2512</a></td>
     <td>Submitted</td>
   </tr>
+  <tr>
+    <td>50</td>
+    <td><a href="https://github.com/microsoft/TypeScript/" target="_blank">Typescript</a></td>
+    <td>Javascript superset</td><td>Fix octal literal error duplication.</td>
+    <td><a href="https://github.com/microsoft/TypeScript/pull/46823" target="_blank">PR #46823</a></td>
+    <td>Draft</td>
+  </tr>
 </table>
