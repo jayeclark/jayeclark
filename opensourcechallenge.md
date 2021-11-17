@@ -372,7 +372,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/MaibornWolff/" target="_blank">Code Charta</a></td>
     <td>Code visualization app</td><td>Fix nonfunctional button hover effect.</td>
     <td><a href="https://github.com/MaibornWolff/codecharta/pull/2512" target="_blank">PR #2512</a></td>
-    <td>Submitted</td>
+    <td>Approved</td>
   </tr>
   <tr>
     <td>50</td>
