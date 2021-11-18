@@ -5,7 +5,7 @@ The most challenging part of joining a new development team is navigating a nove
 ## Goals  
 * **Base (50% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 64)*
-* **Long Term (42% complete)**: Have 100 pull requests successfully merged into open source repositories.
+* **Long Term (43% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies, Libraries and Standards Touched
 Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS | ESLint | Express | Firebase | Flutter | Gatsby | Git | Gradle | GraphQL | HTML | JavaScript | Laravel | Leiningen | MongoDB | MySQL | .NET | Node | Nodemon | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | SASS | StandardJS | Strapi | Tailwind | Typescript | Unity | Vue | XCode | Yarn
@@ -372,7 +372,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/MaibornWolff/" target="_blank">Code Charta</a></td>
     <td>Code visualization app</td><td>Fix nonfunctional button hover effect.</td>
     <td><a href="https://github.com/MaibornWolff/codecharta/pull/2512" target="_blank">PR #2512</a></td>
-    <td>Approved</td>
+    <td>Merged</td>
   </tr>
   <tr>
     <td>50</td>
