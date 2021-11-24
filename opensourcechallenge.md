@@ -188,7 +188,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/Sarthaknegigit/" target="_blank">Open To Do List</a></td>
     <td>Practice Project</td><td>Prevent form submission on hitting enter</td>
     <td><a href="https://github.com/Sarthaknegigit/Open-TodoList/pull/14" target="_blank">PR #14</a></td>
-    <td>Submitted, unresponsive</td>
+    <td>Closed, owner unresponsive</td>
   </tr>  
   <tr>
     <td>24</td>
