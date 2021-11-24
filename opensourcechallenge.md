@@ -218,7 +218,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/shivansh361/Euphoria-technologies/" target="_blank">Euphoria Technologies</a></td>
     <td>Marketing site</td><td>Implement dark mode</td>
     <td><a href="https://github.com/shivansh361/Euphoria-technologies/pull/30" target="_blank">PR #30</a></td>
-    <td>Submitted, unresponsive</td>
+    <td>Closed, owner unresponsive</td>
   </tr>  
   <tr>
     <td>28</td>
