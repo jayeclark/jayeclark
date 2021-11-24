@@ -379,6 +379,20 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/microsoft/TypeScript/" target="_blank">Typescript</a></td>
     <td>Javascript superset</td><td>Fix octal literal error duplication.</td>
     <td><a href="https://github.com/microsoft/TypeScript/pull/46823" target="_blank">PR #46823</a></td>
+    <td>Submitted</td>
+  </tr>
+  <tr>
+    <td>51</td>
+    <td><a href="https://github.com/MiHarsh/gmeet-emoji/" target="_blank">Gmeet Emoji</a></td>
+    <td>Chrome extension for adding emoji in google meet chats</td><td>Enhance UI</td>
+    <td><a href="https://github.com/MiHarsh/gmeet-emoji/pull/7" target="_blank">PR #7</a></td>
+    <td>Submitted</td>
+  </tr>
+  <tr>
+    <td>51</td>
+    <td><a href="https://github.com/system-ui/theme-ui/" target="_blank">Theme UI</a></td>
+    <td>React UI library</td><td>Add custom SVG icon option to checkbox and radio button</td>
+    <td><a href="https://github.com/system-ui/theme-ui/pull/2022" target="_blank">PR #2022</a></td>
     <td>Draft</td>
   </tr>
 </table>
