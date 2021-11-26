@@ -409,4 +409,11 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/garg-madhur-garg/GitHub_Profile_Viewer/pull/5" target="_blank">PR #5</a></td>
     <td>Submitted</td>
   </tr> 
+  <tr>
+    <td>55</td>
+    <td><a href="https://github.com/ratnakar5938/Whatsapp-clone/" target="_blank">GitHub Profile Viewer</a></td>
+    <td>Student app</td><td>Implement responsive classes</td>
+    <td><a href="https://github.com/ratnakar5938/Whatsapp-clone/pull/8" target="_blank">PR #8</a></td>
+    <td>Submitted</td>
+  </tr>
 </table>
