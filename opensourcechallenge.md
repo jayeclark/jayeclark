@@ -411,8 +411,8 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
   </tr> 
   <tr>
     <td>55</td>
-    <td><a href="https://github.com/ratnakar5938/Whatsapp-clone/" target="_blank">GitHub Profile Viewer</a></td>
-    <td>Student app</td><td>Implement responsive classes</td>
+    <td><a href="https://github.com/ratnakar5938/Whatsapp-clone/" target="_blank">Whatsapp Clone</a></td>
+    <td>Clone of whatsapp using React</td><td>Implement responsive ui</td>
     <td><a href="https://github.com/ratnakar5938/Whatsapp-clone/pull/8" target="_blank">PR #8</a></td>
     <td>Submitted</td>
   </tr>
