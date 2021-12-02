@@ -425,13 +425,10 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
   </tr>
 
 <tr>
-    <td>56</td>
+    <td>57</td>
     <td><a href="https://github.com/Greenstand/treetracker-web-map-client/" target="_blank">Tree Tracker</a></td>
     <td>Tracking app for global tree planting efforts</td><td>Fix font weight bug.</td>
     <td><a href="https://github.com/Greenstand/treetracker-web-map-client/pull/330" target="_blank">PR #330</a></td>
     <td>Merged</td>
   </tr>
-
-https://github.com/Greenstand/treetracker-web-map-client/pull/330
-
 </table>
