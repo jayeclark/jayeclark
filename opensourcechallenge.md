@@ -3,9 +3,9 @@
 The most challenging part of joining a new development team is navigating a novel code base and adapting to new technologies and stacks. To practice this skill, I've embarked on a challenge that involves rapidly getting up to speed on, navigating, and creating local development environments for new code bases.
 
 ## Goals  
-* **Base (56% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
+* **Base (57% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 57)*
-* **Long Term (45% complete)**: Have 100 pull requests successfully merged into open source repositories.
+* **Long Term (46% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies, Libraries and Standards Touched
 Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS | ESLint | Express | Firebase | Flutter | Gatsby | Git | Gradle | GraphQL | HTML | JavaScript | Laravel | Leiningen | Material UI | MongoDB | MySQL | .NET | Node | Nodemon | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | SASS | StandardJS | Strapi | Tailwind | Theme UI | Typescript | Unity | Vue | XCode | Yarn
@@ -419,8 +419,19 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
   <tr>
     <td>56</td>
     <td><a href=" https://github.com/facebook/create-react-app/" target="_blank">Create React App</a></td>
-    <td>Toolchain for creating simple React apps</td><td>Update running-tests to reflect current boilerplate tests.</td>
+    <td>Toolchain for creating simple React apps</td><td>Update running-tests to reflect current boilerplate test.</td>
     <td><a href=" https://github.com/facebook/create-react-app/pull/11689" target="_blank">PR #11689</a></td>
     <td>Submitted</td>
   </tr>
+
+<tr>
+    <td>56</td>
+    <td><a href="https://github.com/Greenstand/treetracker-web-map-client/" target="_blank">Tree Tracker</a></td>
+    <td>Tracking app for global tree planting efforts</td><td>Fix font weight bug.</td>
+    <td><a href="https://github.com/Greenstand/treetracker-web-map-client/pull/330" target="_blank">PR #330</a></td>
+    <td>Merged</td>
+  </tr>
+
+https://github.com/Greenstand/treetracker-web-map-client/pull/330
+
 </table>
