@@ -379,7 +379,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/microsoft/TypeScript/" target="_blank">Typescript</a></td>
     <td>Javascript superset</td><td>Fix octal literal error duplication.</td>
     <td><a href="https://github.com/microsoft/TypeScript/pull/46823" target="_blank">PR #46823</a></td>
-    <td>Closed, unable to complete tests (not familiar enough with the language)</td>
+    <td>Merged with assistance, unable to draft TS test on my own (not familiar enough with the language)</td>
   </tr>
   <tr>
     <td>51</td>
