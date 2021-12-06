@@ -418,9 +418,9 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
   </tr>
   <tr>
     <td>56</td>
-    <td><a href=" https://github.com/facebook/create-react-app/" target="_blank">Create React App</a></td>
+    <td><a href="https://github.com/facebook/create-react-app/" target="_blank">Create React App</a></td>
     <td>Toolchain for creating simple React apps</td><td>Update running-tests to reflect current boilerplate test.</td>
-    <td><a href=" https://github.com/facebook/create-react-app/pull/11689" target="_blank">PR #11689</a></td>
+    <td><a href="https://github.com/facebook/create-react-app/pull/11689" target="_blank">PR #11689</a></td>
     <td>Submitted</td>
   </tr>
 
