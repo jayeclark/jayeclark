@@ -3,7 +3,7 @@
 The most challenging part of joining a new development team is navigating a novel code base and adapting to new technologies and stacks. To practice this skill, I've embarked on a challenge that involves rapidly getting up to speed on, navigating, and creating local development environments for new code bases.
 
 ## Goals  
-* **Base (57% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
+* **Base (59% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 57)*
 * **Long Term (46% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
@@ -379,7 +379,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/microsoft/TypeScript/" target="_blank">Typescript</a></td>
     <td>Javascript superset</td><td>Fix octal literal error duplication.</td>
     <td><a href="https://github.com/microsoft/TypeScript/pull/46823" target="_blank">PR #46823</a></td>
-    <td>Submitted</td>
+    <td>Closed, unable to complete tests (not familiar enough with the language)</td>
   </tr>
   <tr>
     <td>51</td>
@@ -393,7 +393,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/system-ui/theme-ui/" target="_blank">Theme UI</a></td>
     <td>React UI library</td><td>Add custom SVG icon option to checkbox and radio button</td>
     <td><a href="https://github.com/system-ui/theme-ui/pull/2022" target="_blank">PR #2022</a></td>
-    <td>Draft</td>
+    <td>Closed, unable to complete (required graphic design/SVG skills)</td>
   </tr>
   <tr>
     <td>53</td>
@@ -430,5 +430,19 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td>Tracking app for global tree planting efforts</td><td>Fix font weight bug.</td>
     <td><a href="https://github.com/Greenstand/treetracker-web-map-client/pull/330" target="_blank">PR #330</a></td>
     <td>Merged</td>
-  </tr>
+</tr>
+<tr>
+    <td>58</td>
+    <td><a href="https://github.com/datasektionen/bawang/" target="_blank">Bawang</a></td>
+    <td>Website for Swedish technology student union</td><td>Fix event display error.</td>
+    <td><a href="https://github.com/datasektionen/bawang/pull/31" target="_blank">PR #31</a></td>
+    <td>Merged</td>
+</tr>
+<tr>
+    <td>59</td>
+    <td><a href="https://github.com/datasektionen/bawang/" target="_blank">Tree Tracker</a></td>
+    <td>Tracking app for global tree planting efforts</td><td>Fix information card CSS.</td>
+    <td><a href="https://github.com/Greenstand/treetracker-web-map-client/pull/342" target="_blank">PR #342</a></td>
+    <td>Approved</td>
+</tr>
 </table>
