@@ -3,7 +3,7 @@
 The most challenging part of joining a new development team is navigating a novel code base and adapting to new technologies and stacks. To practice this skill, I've embarked on a challenge that involves rapidly getting up to speed on, navigating, and creating local development environments for new code bases.
 
 ## Goals  
-* **Base (61% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
+* **Base (62% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 57)*
 * **Long Term (47% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
@@ -423,40 +423,46 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
     <td><a href="https://github.com/facebook/create-react-app/pull/11689" target="_blank">PR #11689</a></td>
     <td>Submitted</td>
   </tr>
-
-<tr>
-    <td>57</td>
-    <td><a href="https://github.com/Greenstand/treetracker-web-map-client/" target="_blank">Tree Tracker</a></td>
-    <td>Tracking app for global tree planting efforts</td><td>Fix font weight bug.</td>
-    <td><a href="https://github.com/Greenstand/treetracker-web-map-client/pull/330" target="_blank">PR #330</a></td>
-    <td>Merged</td>
-</tr>
-<tr>
-    <td>58</td>
-    <td><a href="https://github.com/datasektionen/bawang/" target="_blank">Bawang</a></td>
-    <td>Website for Swedish technology student union</td><td>Fix event display error.</td>
-    <td><a href="https://github.com/datasektionen/bawang/pull/31" target="_blank">PR #31</a></td>
-    <td>Merged</td>
-</tr>
-<tr>
-    <td>59</td>
-    <td><a href="https://github.com/Greenstand/treetracker-web-map-client/" target="_blank">Tree Tracker</a></td>
-    <td>Tracking app for global tree planting efforts</td><td>Fix information card CSS.</td>
-    <td><a href="https://github.com/Greenstand/treetracker-web-map-client/pull/342" target="_blank">PR #342</a></td>
-    <td>Approved</td>
-</tr>
-<tr>
-    <td>60</td>
-    <td><a href="https://github.com/netless-io/flat/" target="_blank">Flat</a></td>
-    <td>Web, Windows and macOS client of Agora Flat open source classroom.</td><td>Fix duplicate error messages.</td>
-    <td><a href="https://github.com/netless-io/flat/pull/1177" target="_blank">PR #1177</a></td>
-    <td>Submitted</td>
-</tr>
-<tr>
-    <td>61</td>
-    <td><a href="https://github.com/MangelMaxime/Nacara/" target="_blank">Nacara</a></td>
-    <td>Static site generator focused on simplicity</td><td>Fix anchor hover behavior.</td>
-    <td><a href="https://github.com/MangelMaxime/Nacara/pull/150" target="_blank">PR #150</a></td>
-    <td>Submitted</td>
-</tr>
+  <tr>
+      <td>57</td>
+      <td><a href="https://github.com/Greenstand/treetracker-web-map-client/" target="_blank">Tree Tracker</a></td>
+      <td>Tracking app for global tree planting efforts</td><td>Fix font weight bug.</td>
+      <td><a href="https://github.com/Greenstand/treetracker-web-map-client/pull/330" target="_blank">PR #330</a></td>
+      <td>Merged</td>
+  </tr>
+  <tr>
+      <td>58</td>
+      <td><a href="https://github.com/datasektionen/bawang/" target="_blank">Bawang</a></td>
+      <td>Website for Swedish technology student union</td><td>Fix event display error.</td>
+      <td><a href="https://github.com/datasektionen/bawang/pull/31" target="_blank">PR #31</a></td>
+      <td>Merged</td>
+  </tr>
+  <tr>
+      <td>59</td>
+      <td><a href="https://github.com/Greenstand/treetracker-web-map-client/" target="_blank">Tree Tracker</a></td>
+      <td>Tracking app for global tree planting efforts</td><td>Fix information card CSS.</td>
+      <td><a href="https://github.com/Greenstand/treetracker-web-map-client/pull/342" target="_blank">PR #342</a></td>
+      <td>Approved</td>
+  </tr>
+  <tr>
+      <td>60</td>
+      <td><a href="https://github.com/netless-io/flat/" target="_blank">Flat</a></td>
+      <td>Web, Windows and macOS client of Agora Flat open source classroom.</td><td>Fix duplicate error messages.</td>
+      <td><a href="https://github.com/netless-io/flat/pull/1177" target="_blank">PR #1177</a></td>
+      <td>Submitted</td>
+  </tr>
+  <tr>
+      <td>61</td>
+      <td><a href="https://github.com/MangelMaxime/Nacara/" target="_blank">Nacara</a></td>
+      <td>Static site generator focused on simplicity</td><td>Fix anchor hover behavior.</td>
+      <td><a href="https://github.com/MangelMaxime/Nacara/pull/150" target="_blank">PR #150</a></td>
+      <td>Submitted</td>
+  </tr>
+  <tr>
+      <td>62</td>
+      <td><a href="https://github.com/himanshu32288/Nepilson/" target="_blank">Nepsilon</a></td>
+      <td>NFA to dfa converter tool</td><td>Improve responsiveness of UI tables and diagram.</td>
+      <td><a href="https://github.com/himanshu32288/Nepilson/pull/4" target="_blank">PR #4</a></td>
+      <td>Submitted</td>
+  </tr>
 </table>
