@@ -442,7 +442,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
       <td><a href="https://github.com/Greenstand/treetracker-web-map-client/" target="_blank">Tree Tracker</a></td>
       <td>Tracking app for global tree planting efforts</td><td>Fix information card CSS.</td>
       <td><a href="https://github.com/Greenstand/treetracker-web-map-client/pull/342" target="_blank">PR #342</a></td>
-      <td>Approved</td>
+      <td>Merged</td>
   </tr>
   <tr>
       <td>60</td>
