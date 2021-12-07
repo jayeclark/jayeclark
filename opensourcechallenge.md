@@ -463,7 +463,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
       <td><a href="https://github.com/himanshu32288/Nepilson/" target="_blank">Nepsilon</a></td>
       <td>NFA to dfa converter tool</td><td>Improve responsiveness of UI tables and diagram.</td>
       <td><a href="https://github.com/himanshu32288/Nepilson/pull/4" target="_blank">PR #4</a></td>
-      <td>Submitted</td>
+      <td>Merged</td>
   </tr>
   <tr>
       <td>63</td>
