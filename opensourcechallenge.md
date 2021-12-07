@@ -5,7 +5,7 @@ The most challenging part of joining a new development team is navigating a nove
 ## Goals  
 * **Base (65% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 44)*
-* **Long Term (54% complete)**: Have 100 pull requests successfully merged into open source repositories.
+* **Long Term (55% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies, Libraries and Standards Touched
 Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Django | Docker | EJS | ESLint | Express | Firebase | Flutter | Fsharp | Gatsby | Git | Gradle | GraphQL | HTML | JavaScript | Laravel | Leiningen | Material UI | MongoDB | MySQL | .NET | Node | Nodemon | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | SASS | StandardJS | Strapi | Tailwind | Theme UI | Typescript | Unity | Vue | XCode | Yarn
@@ -484,6 +484,6 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Django | Docke
       <td><a href="https://github.com/The-Peoples-Pantry/website/" target="_blank">The People's Pantry</a></td>
       <td>COVID food resource in Toronto</td><td>Fix screenreader accessibility issues and low contrast CSS.</td>
       <td><a href="https://github.com/The-Peoples-Pantry/website/pull/511" target="_blank">PR #511</a></td>
-      <td>Submitted</td>
+      <td>Merged</td>
   </tr>
 </table>
