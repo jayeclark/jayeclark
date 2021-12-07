@@ -472,4 +472,11 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
       <td><a href="https://github.com/Subtixx/ChristmasTreeESP32/pull/2" target="_blank">PR #2</a></td>
       <td>Merged</td>
   </tr>
+    <tr>
+      <td>64</td>
+      <td><a href="https://github.com/tchapi/Adafruit-GFX-Font-Customiser/" target="_blank">GFX Font Customizer</a></td>
+      <td>Font visualizer and customizer tool</td><td>Fix glyph editor box visual separation.</td>
+      <td><a href="https://github.com/tchapi/Adafruit-GFX-Font-Customiser/pull/31" target="_blank">PR #31</a></td>
+      <td>Submitted</td>
+  </tr>
 </table>
