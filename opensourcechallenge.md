@@ -449,14 +449,14 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
       <td><a href="https://github.com/netless-io/flat/" target="_blank">Flat</a></td>
       <td>Web, Windows and macOS client of Agora Flat open source classroom.</td><td>Fix duplicate error messages.</td>
       <td><a href="https://github.com/netless-io/flat/pull/1177" target="_blank">PR #1177</a></td>
-      <td>Submitted</td>
+      <td>Approved</td>
   </tr>
   <tr>
       <td>61</td>
       <td><a href="https://github.com/MangelMaxime/Nacara/" target="_blank">Nacara</a></td>
       <td>Static site generator focused on simplicity</td><td>Fix anchor hover behavior.</td>
       <td><a href="https://github.com/MangelMaxime/Nacara/pull/150" target="_blank">PR #150</a></td>
-      <td>Submitted</td>
+      <td>Merged</td>
   </tr>
   <tr>
       <td>62</td>
