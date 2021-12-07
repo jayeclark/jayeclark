@@ -470,6 +470,6 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
       <td><a href="https://github.com/Subtixx/ChristmasTreeESP32/" target="_blank">Christmas Tree</a></td>
       <td>LED Xmas lights program</td><td>Fix static property mutation bug.</td>
       <td><a href="https://github.com/Subtixx/ChristmasTreeESP32/pull/2" target="_blank">PR #2</a></td>
-      <td>Submitted</td>
+      <td>Merged</td>
   </tr>
 </table>
