@@ -449,7 +449,7 @@ Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | Docker | EJS |
       <td><a href="https://github.com/netless-io/flat/" target="_blank">Flat</a></td>
       <td>Web, Windows and macOS client of Agora Flat open source classroom.</td><td>Fix duplicate error messages.</td>
       <td><a href="https://github.com/netless-io/flat/pull/1177" target="_blank">PR #1177</a></td>
-      <td>Approved</td>
+      <td>Merged</td>
   </tr>
   <tr>
       <td>61</td>
