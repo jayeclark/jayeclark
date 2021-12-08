@@ -491,7 +491,7 @@ Android SDK | Angular | C | C++ | C# | Clojure | Composer | CSS | Discord API | 
       <td><a href="https://github.com/sliitwomeninfoss/wif-web/" target="_blank">Women in FOSS</a></td>
       <td>Website for school program supporting women in open source software</td><td>Fix form validation and toast notifications.</td>
       <td><a href="https://github.com/sliitwomeninfoss/wif-web/pull/67" target="_blank">PR #67</a></td>
-      <td>Submitted</td>
+      <td>Approved</td>
   </tr>
   <tr>
       <td>67</td>
