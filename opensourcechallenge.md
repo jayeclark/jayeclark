@@ -3,7 +3,7 @@
 The most challenging part of joining a new development team is navigating a novel code base and adapting to new technologies and stacks. To practice this skill, I've embarked on a challenge that involves rapidly getting up to speed on, navigating, and creating local development environments for new code bases.
 
 ## Goals  
-* **Base (71% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
+* **Base (72% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 42)*
 * **Long Term (55% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
@@ -526,6 +526,13 @@ Android SDK | Angular | Blockly | C | C++ | C# | Clojure | Composer | CSS | Disc
       <td><a href="https://github.com/kr-matthews/connect-4/" target="_blank">Connect 4</a></td>
       <td>Connect 4 game</td><td>Fix dark mode transition on reload.</td>
       <td><a href="https://github.com/kr-matthews/connect-4/pull/11" target="_blank">PR #11</a></td>
+      <td>Submitted</td>
+  </tr>
+  <tr>
+      <td>72</td>
+      <td><a href="https://github.com/Code4Community/platformer/" target="_blank">Platforming Game</a></td>
+      <td>Javascript based platform game</td><td>Refactor setupMapAndCamera method to be in parent class.</td>
+      <td><a href="https://github.com/Code4Community/platformer/pull/16" target="_blank">PR #16</a></td>
       <td>Submitted</td>
   </tr>
 </table>
