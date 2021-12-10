@@ -8,7 +8,7 @@ The most challenging part of joining a new development team is navigating a nove
 * **Long Term (58% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies, Libraries and Standards Touched
-Android SDK | Angular | Blockly | C | C++ | C# | Clojure | Composer | CSS | D3 | Dart | Discord API | Django | Docker | Electron | EJS | ESLint | Express | Firebase | Flutter | Fsharp | Gatsby | Git | Gradle | GraphQL | Gulp | Kotlin | HTML | Jade | JavaScript | Jest | Laravel | Leiningen | Material UI | MongoDB | MySQL | .NET | Node | Nodemon | NPM | NPX | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | Roosevelt | SASS | Scratch | StandardJS | Strapi | Tailwind | Theme UI | Typescript | Unity | Vue | XCode | Yarn | Yeoman
+Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Composer | CSS | D3 | Dart | Discord API | Django | Docker | Electron | EJS | ESLint | Express | Firebase | Flask | Flutter | Fsharp | Gatsby | Git | Gradle | GraphQL | Gulp | Kotlin | HTML | Jade | JavaScript | Jest | Laravel | Leiningen | Material UI | MongoDB | MySQL | .NET | Node | Nodemon | NPM | NPX | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | Roosevelt | SASS | Scratch | StandardJS | Strapi | Tailwind | Teddy | Theme UI | Typescript | Unity | Vue | XCode | Yarn | Yeoman
 
 # Contribution Log
 <table>
