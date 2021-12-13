@@ -496,9 +496,9 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
   <tr>
       <td>67</td>
       <td><a href="https://github.com/alisonthemonster/Presently/" target="_blank">Presently</a></td>
-      <td>Andoid app for gratittude</td><td>Fix milestone display bug.</td>
+      <td>Andoid app for gratitude</td><td>Fix milestone display bug.</td>
       <td><a href="https://github.com/alisonthemonster/Presently/pull/252" target="_blank">PR #252</a></td>
-      <td>Submitted</td>
+      <td>Merged</td>
   </tr>
   <tr>
       <td>68</td>
