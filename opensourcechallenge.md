@@ -533,7 +533,7 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
       <td><a href="https://github.com/Code4Community/platformer/" target="_blank">Platforming Game</a></td>
       <td>Javascript based platform game</td><td>Refactor setupMapAndCamera method to be in parent class.</td>
       <td><a href="https://github.com/Code4Community/platformer/pull/16" target="_blank">PR #16</a></td>
-      <td>Rejected, project is 'community only' and someone was working on the issue even though it was tagged 'help wanted' and had no discussion or assigment.</td>
+      <td>Merged indirectly, project is 'community only' and someone was working on the issue even though it was tagged 'help wanted' and had no discussion or assignment.</td>
   </tr>
   <tr>
       <td>73</td>
