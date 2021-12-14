@@ -5,7 +5,7 @@ The most challenging part of joining a new development team is navigating a nove
 ## Goals  
 * **Base (75% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 42)*
-* **Long Term (62% complete)**: Have 100 pull requests successfully merged into open source repositories.
+* **Long Term (63% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies, Libraries and Standards Touched
 Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Composer | CSS | D3 | Dart | Discord API | Django | Docker | Electron | EJS | ESLint | Express | Firebase | Flask | Flutter | Fsharp | Gatsby | Git | Gradle | GraphQL | Gulp | Kotlin | HTML | Jade | JavaScript | Jest | Laravel | Leiningen | Material UI | MongoDB | MySQL | .NET | Node | Nodemon | NPM | NPX | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | Roosevelt | SASS | Scratch | StandardJS | Strapi | Tailwind | Teddy | Theme UI | Typescript | Unity | Vue | XCode | Yarn | Yeoman
@@ -526,7 +526,7 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
       <td><a href="https://github.com/kr-matthews/connect-4/" target="_blank">Connect 4</a></td>
       <td>Connect 4 game</td><td>Fix dark mode transition on reload.</td>
       <td><a href="https://github.com/kr-matthews/connect-4/pull/11" target="_blank">PR #11</a></td>
-      <td>Submitted</td>
+      <td>Merged</td>
   </tr>
   <tr>
       <td>72</td>
