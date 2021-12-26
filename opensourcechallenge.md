@@ -577,11 +577,25 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
       <td><a href="https://github.com/joemasilotti/railsdevs.com/pull/162" target="_blank">PR #162</a></td>
       <td>Closed (made more sense to lump with PR #182 than to address separately</td>
   </tr>  
-    <tr>
+  <tr>
       <td>79</td>
       <td><a href="https://github.com/joemasilotti/railsdevs.com/" target="_blank">Railsdev</a></td>
       <td>Reverse job board for Ruby on Rails developers</td><td>Add full notification UI.</td>
       <td><a href="https://github.com/joemasilotti/railsdevs.com/pull/182" target="_blank">PR #182</a></td>
+      <td>Submitted</td>
+  </tr>  
+  <tr>
+      <td>80</td>
+      <td><a href="https://github.com/Xcov19/mycovidconnect/" target="_blank">My Covid Connect</a></td>
+      <td>Covid 911 App</td><td>Fix dev setup issues.</td>
+      <td><a href="https://github.com/Xcov19/mycovidconnect/pull/246" target="_blank">PR #246</a></td>
+      <td>Submitted</td>
+  </tr>  
+    <tr>
+      <td>81</td>
+      <td><a href="https://github.com/Xcov19/mycovidconnect/" target="_blank">My Covid Connect</a></td>
+      <td>Covid 911 App</td><td>PR and corresponding issue to demonstrate and troubleshoot github-actions CI failures (the main repository, when forked, is unable to pass its own github-actions tests.)</td>
+      <td><a href="https://github.com/Xcov19/mycovidconnect/pull/248" target="_blank">PR #248</a></td>
       <td>Submitted</td>
   </tr>  
 </table>
