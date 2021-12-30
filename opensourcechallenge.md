@@ -573,9 +573,9 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
   <tr>
       <td>78</td>
       <td><a href="https://github.com/joemasilotti/railsdevs.com/" target="_blank">Railsdev</a></td>
-      <td>Reverse job board for Ruby on Rails developers</td><td>Add notification badge.</td>
-      <td><a href="https://github.com/joemasilotti/railsdevs.com/pull/162" target="_blank">PR #162</a></td>
-      <td>Closed (made more sense to lump with PR #182 than to address separately</td>
+      <td>Reverse job board for Ruby on Rails developers</td><td>Add Stripe setup instructions for dev environment.</td>
+      <td><a href="https://github.com/joemasilotti/railsdevs.com/pull/181" target="_blank">PR #181</a></td>
+      <td>Merged</td>
   </tr>  
   <tr>
       <td>79</td>
