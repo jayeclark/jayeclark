@@ -627,7 +627,7 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td>Merged</td>
   </tr>  
   <tr>
-    <td>85</td>
+    <td>86</td>
     <td><a href="https://github.com/0nahid/red-onion/" target="_blank">Red Onion Foods</a></td>
     <td>Restaurant website</td><td>Fix responsive styling issues from last PR</td>
     <td><a href="https://github.com/0nahid/red-onion/pull/6" target="_blank">PR #6</a></td>
