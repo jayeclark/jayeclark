@@ -635,7 +635,7 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
   </tr>  
   <tr>
     <td>87</td>
-    <td><a href=" https://github.com/carlson-technologies/coffeeclass.io/" target="_blank">Coffeeclass.io</a></td>
+    <td><a href="https://github.com/carlson-technologies/coffeeclass.io/" target="_blank">Coffeeclass.io</a></td>
     <td>Code teaching website</td><td>Fix step component headings accordion issue</td>
     <td><a href="https://github.com/carlson-technologies/coffeeclass.io/pull/63" target="_blank">PR #63</a></td>
     <td>Submitted</td>
