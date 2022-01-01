@@ -3,7 +3,7 @@
 The most challenging part of joining a new development team is navigating a novel code base and adapting to new technologies and stacks. To practice this skill, I've embarked on a challenge that involves rapidly getting up to speed on, navigating, and creating local development environments for new code bases.
 
 ## Goals  
-* **Base (86% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
+* **Base (87% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 21)*
 * **Long Term (70% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
@@ -631,6 +631,13 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td><a href="https://github.com/0nahid/red-onion/" target="_blank">Red Onion Foods</a></td>
     <td>Restaurant website</td><td>Fix responsive styling issues from last PR</td>
     <td><a href="https://github.com/0nahid/red-onion/pull/6" target="_blank">PR #6</a></td>
+    <td>Submitted</td>
+  </tr>  
+    <tr>
+    <td>87</td>
+    <td><a href=" https://github.com/carlson-technologies/coffeeclass.io/" target="_blank">Coffeeclass.io</a></td>
+    <td>Code teaching website</td><td>Fix step component headings accordion issue</td>
+    <td><a href="https://github.com/carlson-technologies/coffeeclass.io/pull/63" target="_blank">PR #63</a></td>
     <td>Submitted</td>
   </tr>  
 </table>
