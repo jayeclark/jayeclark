@@ -3,7 +3,7 @@
 The most challenging part of joining a new development team is navigating a novel code base and adapting to new technologies and stacks. To practice this skill, I've embarked on a challenge that involves rapidly getting up to speed on, navigating, and creating local development environments for new code bases.
 
 ## Goals  
-* **Base (89% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
+* **Base (90% complete)**: Submit 100 pull requests against open source repositories. These must be either publicly available projects, projects that are intended to be publicly available, or self-promotional projects that are intended to be publicly accessible (i.e. helping with portfolios sites or projects published on GitHub Pages.) There is no restriction with regard to languages or technologies - the more variety, the better. Pull requests should generally require building a local development environment for the project, but a small number of documentation updates that can be procedurally scripted or are related to setting up the local development environment may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug (so obvious that it does not need an issue opened.) No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch (On Track)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Days left: 21)*
 * **Long Term (72% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
@@ -647,11 +647,19 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td><a href="https://github.com/mikhael28/paretOS/pull/131" target="_blank">PR #131</a></td>
     <td>Draft</td>
   </tr>  
-    <tr>
+  <tr>
     <td>89</td>
     <td><a href="https://github.com/react-bootstrap/react-bootstrap/" target="_blank">React Bootstrap</a></td>
     <td>Bootstrap component library for React</td><td>Migrate Card test to TypeScript and remove Enzyme dependency</td>
     <td><a href="https://github.com/react-bootstrap/react-bootstrap/pull/6166" target="_blank">PR #6166</a></td>
     <td>Draft</td>
   </tr>  
+  <tr>
+    <td>90</td>
+    <td><a href="https://github.com/np-8/dash-uploader/" target="_blank">Dash Uploader</a></td>
+    <td>alternative upload component for python Dash applications.</td><td>Fix class list constructor logic</td>
+    <td><a href="https://github.com/np-8/dash-uploader/pull/61" target="_blank">PR #61</a></td>
+    <td>Draft</td>
+  </tr>  
+
 </table>
