@@ -652,7 +652,7 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td><a href="https://github.com/react-bootstrap/react-bootstrap/" target="_blank">React Bootstrap</a></td>
     <td>Bootstrap component library for React</td><td>Migrate Card test to TypeScript and remove Enzyme dependency</td>
     <td><a href="https://github.com/react-bootstrap/react-bootstrap/pull/6166" target="_blank">PR #6166</a></td>
-    <td>Draft</td>
+    <td>Submitted</td>
   </tr>  
   <tr>
     <td>90</td>
