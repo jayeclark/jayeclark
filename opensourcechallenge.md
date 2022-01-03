@@ -659,7 +659,7 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td><a href="https://github.com/np-8/dash-uploader/" target="_blank">Dash Uploader</a></td>
     <td>alternative upload component for python Dash applications.</td><td>Fix class list constructor logic</td>
     <td><a href="https://github.com/np-8/dash-uploader/pull/61" target="_blank">PR #61</a></td>
-    <td>Draft</td>
+    <td>Submitted</td>
   </tr>  
 
 </table>
