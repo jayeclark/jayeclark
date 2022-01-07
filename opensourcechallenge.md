@@ -672,6 +672,6 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td><a href="https://github.com/heberleh/interactivenn/" target="_blank">InteractiVenn</a></td>
     <td>Web-based tool for the analysis of sets through Venn diagrams.</td><td>Convert 4 year old project to React 'lite' (js only & CDN React scripts) & refactor old js</td>
     <td><a href="https://github.com/heberleh/interactivenn/pull/8" target="_blank">PR #8</a></td>
-    <td>Submitted</td>
+    <td>Draft</td>
   </tr>  
 </table>
