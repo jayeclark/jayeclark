@@ -2,8 +2,8 @@
 
 Joining a new development team means quickly adapting to new technologies and stacks. To practice that skill, I embarked on a challenge to contribute to many new code bases in a wide range of different development environments.
 
-* **Base Goal (100% complete)**: Submit or draft 100 pull requests against open source repositories. There is no restriction with regard to languages or technologies - the more variety, the better! Pull requests should typically involve building a local development environment, but a small number of documentation updates may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug. No more than 2 pull requests in the challenge can be against the same repository.
-* **Stretch Goal (100% complete)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Completed Jan 12, 2021)*
+* **Base Goal (100% complete!!)**: Submit or draft 100 pull requests against open source repositories. There is no restriction with regard to languages or technologies - the more variety, the better! Pull requests should typically involve building a local development environment, but a small number of documentation updates may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug. No more than 2 pull requests in the challenge can be against the same repository.
+* **Stretch Goal (100% complete!!)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Completed Jan 12, 2021)*
 * **Long Term Project (78% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies, Libraries and Standards Touched
