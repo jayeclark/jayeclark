@@ -728,7 +728,7 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td>100</td>
     <td><a href="https://github.com/sldowd/sarah-dowd/" target="_blank">Portfolio</a></td>
     <td>Personal portfolio site</td><td>Migrated from react-router-dom routing to pure JS routing</td>
-    <td><a href="https://github.com/sldowd/sarah-dowd/pull/7" target="_blank">PR #12</a></td>
+    <td><a href="https://github.com/sldowd/sarah-dowd/pull/7" target="_blank">PR #7</a></td>
     <td>Submitted</td>
   </tr> 
 </table>
