@@ -4,7 +4,7 @@ Joining a new development team means quickly adapting to new technologies and st
 
 * **Base Goal (100% complete!!)**: Submit or draft 100 pull requests against open source repositories. There is no restriction with regard to languages or technologies - the more variety, the better! Pull requests should typically involve building a local development environment, but a small number of documentation updates may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug. No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch Goal (100% complete!!)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Completed Jan 12, 2021)*
-* **Long Term Project (79% complete)**: Have 100 pull requests successfully merged into open source repositories.
+* **Long Term Project (86% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies, Libraries and Standards Touched
 Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Composer | CSS | D3 | Dart | Discord API | Django | Docker | Electron | EJS | ESLint | Express | Firebase | Flask | Flutter | Fsharp | Gatsby | Git | Gradle | GraphQL | Gulp | Kotlin | HTML | Jade | JavaScript | Jest | Jinja | Laravel | Leiningen | Material UI | MongoDB | MySQL | .NET | Node | Nodemon | NPM | NPX | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | Roosevelt | SASS | Scratch | StandardJS | Strapi | Tailwind | Teddy | Theme UI | Typescript | Unity | Vue | XCode | Yarn | Yeoman
@@ -644,35 +644,35 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td><a href="https://github.com/mikhael28/paretOS/" target="_blank">ParetOS</a></td>
     <td>Gamified productivity platform</td><td>Migrate leaderboard to TypeScript and add tests</td>
     <td><a href="https://github.com/mikhael28/paretOS/pull/131" target="_blank">PR #131</a></td>
-    <td>Draft</td>
+    <td>Draft (awaiting feedback)</td>
   </tr>  
   <tr>
     <td>89</td>
     <td><a href="https://github.com/react-bootstrap/react-bootstrap/" target="_blank">React Bootstrap</a></td>
     <td>Bootstrap component library for React</td><td>Migrate Card test to TypeScript and remove Enzyme dependency</td>
     <td><a href="https://github.com/react-bootstrap/react-bootstrap/pull/6166" target="_blank">PR #6166</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>  
   <tr>
     <td>90</td>
     <td><a href="https://github.com/np-8/dash-uploader/" target="_blank">Dash Uploader</a></td>
     <td>alternative upload component for python Dash applications.</td><td>Fix class list constructor logic</td>
     <td><a href="https://github.com/np-8/dash-uploader/pull/61" target="_blank">PR #61</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>  
   <tr>
     <td>91</td>
     <td><a href="https://github.com/mdn/content/" target="_blank">MDN Documentation</a></td>
     <td>Official MDN documentation content.</td><td>Fix UTF-16 high/low surrogate encoding example</td>
     <td><a href="https://github.com/mdn/content/pull/11726" target="_blank">PR #11726</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr>  
   <tr>
     <td>92</td>
     <td><a href="https://github.com/heberleh/interactivenn/" target="_blank">InteractiVenn</a></td>
     <td>Web-based tool for the analysis of sets through Venn diagrams.</td><td>Convert 4 year old project to React 'lite' (js only & CDN React scripts) & refactor old js</td>
     <td><a href="https://github.com/heberleh/interactivenn/pull/8" target="_blank">PR #8</a></td>
-    <td>Draft</td>
+    <td>Merged</td>
   </tr> 
     <tr>
     <td>93</td>
@@ -714,14 +714,14 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td><a href="https://github.com/icssc-projects/peterportal-client/" target="_blank">PeterPortal</a></td>
     <td>Course discovery and review tool for UCI.</td><td>Fix red dropdown option background</td>
     <td><a href="https://github.com/icssc-projects/peterportal-client/pull/111" target="_blank">PR #111</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr> 
   <tr>
     <td>99</td>
     <td><a href="https://github.com/ViciousFish/buzzwords/" target="_blank">Buzzwords</a></td>
     <td>Browser based word strategy game</td><td>Improve screenreader accessibility</td>
     <td><a href="https://github.com/ViciousFish/buzzwords/pull/12" target="_blank">PR #12</a></td>
-    <td>Submitted</td>
+    <td>Merged</td>
   </tr> 
     <tr>
     <td>100</td>
