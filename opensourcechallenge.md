@@ -4,7 +4,7 @@ Joining a new development team means quickly adapting to new technologies and st
 
 * **Base Goal (100% complete!!)**: Submit or draft 100 pull requests against open source repositories. There is no restriction with regard to languages or technologies - the more variety, the better! Pull requests should typically involve building a local development environment, but a small number of documentation updates may also be part of the challenge. Each pull request must solve an issue or correct a very obvious bug. No more than 2 pull requests in the challenge can be against the same repository.
 * **Stretch Goal (100% complete!!)**: Complete the challenge in 100 days. *(Start date: October 11, 2021. Completed Jan 12, 2021)*
-* **Long Term Project (86% complete)**: Have 100 pull requests successfully merged into open source repositories.
+* **Long Term Project (87% complete)**: Have 100 pull requests successfully merged into open source repositories.
 
 # Technologies, Libraries and Standards Touched
 Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Composer | CSS | D3 | Dart | Discord API | Django | Docker | Electron | EJS | ESLint | Express | Firebase | Flask | Flutter | Fsharp | Gatsby | Git | Gradle | GraphQL | Gulp | Kotlin | HTML | Jade | JavaScript | Jest | Jinja | Laravel | Leiningen | Material UI | MongoDB | MySQL | .NET | Node | Nodemon | NPM | NPX | PHP | Postgres | Python | QT | Rake | React | Ruby | Ruby on Rails | RVM | Roosevelt | SASS | Scratch | StandardJS | Strapi | Tailwind | Teddy | Theme UI | Typescript | Unity | Vue | XCode | Yarn | Yeoman
@@ -588,14 +588,14 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
       <td><a href="https://github.com/Xcov19/mycovidconnect/" target="_blank">My Covid Connect</a></td>
       <td>Covid 911 App</td><td>Fix dev setup issues.</td>
       <td><a href="https://github.com/Xcov19/mycovidconnect/pull/246" target="_blank">PR #246</a></td>
-      <td>Submitted</td>
+      <td>Merged</td>
   </tr>  
     <tr>
       <td>81</td>
       <td><a href="https://github.com/Xcov19/mycovidconnect/" target="_blank">My Covid Connect</a></td>
       <td>Covid 911 App</td><td>PR and corresponding issue to demonstrate and troubleshoot github-actions CI failures (the main repository, when forked, is unable to pass its own github-actions tests.)</td>
       <td><a href="https://github.com/Xcov19/mycovidconnect/pull/248" target="_blank">PR #248</a></td>
-      <td>Submitted</td>
+      <td>Closed</td>
   </tr>  
   <tr>
     <td>82</td>
