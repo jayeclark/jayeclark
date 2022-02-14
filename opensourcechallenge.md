@@ -420,7 +420,7 @@ Android SDK | AVD Manager | Angular | Blockly | C | C++ | C# | Clojure | Compose
     <td><a href="https://github.com/facebook/create-react-app/" target="_blank">Create React App</a></td>
     <td>Toolchain for creating simple React apps</td><td>Update running-tests to reflect current boilerplate test.</td>
     <td><a href="https://github.com/facebook/create-react-app/pull/11689" target="_blank">PR #11689</a></td>
-    <td>Submitted</td>
+    <td>Closed, no response from reviewers</td>
   </tr>
   <tr>
       <td>57</td>
