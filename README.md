@@ -1,6 +1,6 @@
 # Hi, I'm Jay Clark 👩🏻‍💻
 
-I'm a career-transitioning full stack developer with 7+ years of relevant business and teaching experience. 
+I'm a career-transitioning full stack developer with nearly a decade of relevant business and teaching experience. 
   
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/jayeclark/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/jennbot3000) 
