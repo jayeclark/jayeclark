@@ -19,7 +19,7 @@ Front end banking app built with React
 Personal portfolio site built with Vue   
 
 [Tiny Tech Trivia](https://tinytechtrivia.herokuapp.com)   
-Trivia quiz site for general technical knowledge & regex, built with python / Flask and SQLite. Questions come from the QuizAPI public API.
+Trivia quiz site for practicing general technical knowledge & regex, built with python / Flask and SQLite. Questions come from the QuizAPI public API.
 
 [Open Source Challenge](https://github.com/jayeclark/jayeclark/blob/main/opensourcechallenge.md)  
 I contributed 100 open source software PRs in 100 days.  
