@@ -9,29 +9,29 @@ I'm a career-transitioning full stack developer with nearly a decade of relevant
 
 
 ## Featured Projects 
-![instaplate](https://github.com/jayeclark/jayeclark/blob/main/instaplate-thumbnail.png)
 [Instaplate](http://instaplate.heroku.com)  
 Full stack restaurant delivery app built with React, Next, and MongoDB.  
-
-![bad bank](https://github.com/jayeclark/jayeclark/blob/main/badbank-thumbnail.png)
+![instaplate](https://github.com/jayeclark/jayeclark/blob/main/instaplate-thumbnail.png)  
+   
 [Bad Bank of America](https://jayeclark.github.io/banking)   
 Front end banking app built with React   
-  
-![portfolio](https://github.com/jayeclark/jayeclark/blob/main/portfolio-thumbnail.png)
+![bad bank](https://github.com/jayeclark/jayeclark/blob/main/badbank-thumbnail.png)   
+    
 [Portfolio](https://jayeclark.github.io)   
 Personal portfolio site built with Vue   
-
-![tiny tech trivia](https://github.com/jayeclark/jayeclark/blob/main/t3-thumbnail.png)
+![portfolio](https://github.com/jayeclark/jayeclark/blob/main/portfolio-thumbnail.png)   
+   
 [Tiny Tech Trivia](https://tinytechtrivia.herokuapp.com)   
-Trivia quiz site for practicing general technical knowledge & regex, built with python / Flask and SQLite. Questions come from the QuizAPI public API.
-
+Trivia quiz site for practicing general technical knowledge & regex, built with python / Flask and SQLite. Questions come from the QuizAPI public API.   
+![tiny tech trivia](https://github.com/jayeclark/jayeclark/blob/main/t3-thumbnail.png)   
+   
 [Open Source Challenge](https://github.com/jayeclark/jayeclark/blob/main/opensourcechallenge.md)  
-I contributed 100 open source software PRs in 100 days.  
-
-![mspacman](https://github.com/jayeclark/jayeclark/blob/main/pacman-thumbnail.png)
-[Ms Pacman](https://jayeclark.github.io/mspacman)   
-Ms. Pacman browser game built with vanilla JavaScript.
-
+I contributed 100 open source software PRs in 100 days.   
+   
+[Ms Pacman](https://jayeclark.github.io/mspacman)    
+Ms. Pacman browser game built with vanilla JavaScript.   
+![mspacman](https://github.com/jayeclark/jayeclark/blob/main/pacman-thumbnail.png)   
+   
 ## Contributing
 I'm very interested in contributing to projects on a volunteer or part time contract basis, preferably JavaScript-heavy or backend-heavy work.
 
