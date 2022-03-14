@@ -9,26 +9,32 @@ I'm a career-transitioning full stack developer with nearly a decade of relevant
 
 
 ## Featured Projects 
-**[Instaplate](http://instaplate.heroku.com)**  
-Full stack restaurant delivery app built with React, Next, and MongoDB.  
+**[INSTAPLATE](http://instaplate.heroku.com)**  
+**TypeScript | React | Next.js | Apollo | Strapi | MongoDB**   
+Full stack restaurant delivery app built with the MERN stack.  
 ![instaplate](https://github.com/jayeclark/jayeclark/blob/main/instaplate-thumbnail.png)  
-   
-**[Bad Bank of America](https://jayeclark.github.io/banking)**   
-Front end banking app built with React   
-![bad bank](https://github.com/jayeclark/jayeclark/blob/main/badbank-thumbnail.png)   
-    
-**[Portfolio](https://jayeclark.github.io)**   
+&nbsp;      
+&nbsp;     
+**[PORTFOLIO](https://jayeclark.github.io)**   
+**TypeScript | Vue**   
 Personal portfolio site built with Vue   
 ![portfolio](https://github.com/jayeclark/jayeclark/blob/main/portfolio-thumbnail.png)   
-   
-**[Tiny Tech Trivia](https://tinytechtrivia.herokuapp.com)**   
+&nbsp;    
+&nbsp;     
+**[TINY TECH TRIVIA](https://tinytechtrivia.herokuapp.com)**   
+**Python | Flask | SQLite**   
 Trivia quiz site for practicing general technical knowledge & regex, built with python / Flask and SQLite. Questions come from the QuizAPI public API.   
 ![tiny tech trivia](https://github.com/jayeclark/jayeclark/blob/main/t3-thumbnail.png)   
-   
-**[Open Source Challenge](https://github.com/jayeclark/jayeclark/blob/main/opensourcechallenge.md)**  
+&nbsp;    
+&nbsp;    
+**[OPEN SOURCE CHALLENGE](https://github.com/jayeclark/jayeclark/blob/main/opensourcechallenge.md)**  
+**JavaScript | TypeScript | Ruby | Rails | Angular | Kotlin | Android SDK | Docker | Laravel | Gatsby | Yeoman | and more**   
 I contributed 100 PRs in 100 days to 80+ open source software projects, including TypeScript, O3DE, React Bootstrap, Material UI, ChatWoot, and MetaMask.   
-   
-**[Ms Pacman](https://jayeclark.github.io/mspacman)**    
+![open source challenge](https://github.com/jayeclark/jayeclark/blob/main/interactivenn-thumbnail.png)   
+&nbsp;    
+&nbsp;    
+**[MS PACMAN](https://jayeclark.github.io/mspacman)**    
+**JavaScript**   
 Ms. Pacman browser game built with vanilla JavaScript.   
 ![mspacman](https://github.com/jayeclark/jayeclark/blob/main/pacman-thumbnail.png)   
    
