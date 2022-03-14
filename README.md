@@ -40,16 +40,16 @@ I'm very interested in contributing to projects on a volunteer or part time cont
 I studied medical ethics at Harvard and wrote my undergraduate thesis on how online forum participants debated news about Dolly, the cloned sheep.   
     
 ### Version 1.1 : Doctor Doctor   
-I stayed at Harvard and earned my PhD. My work focused on how patients with rare diseases attempted to raise the perceived importance of their illness among government agencies, by establishing new kinship relationships between their rare disease and other, more 'important' diseases.  
+I stayed at Harvard and earned a PhD. My work focused on how patients with rare diseases attempted to raise the perceived importance of their illness among government agencies, by establishing new kinship relationships between their rare disease and other, more 'important' diseases.  
    
 ### Version 2.0 : California Dreamin
-After my PhD, I moved to sunny San Diego (no more snow!) and worked as a consultant at an award-winning government relations firm. My favorite project involved coding a dispatch & GPS tracking app for an airport shuttle collective.   
+After my PhD, I moved to sunny San Diego (no more snow!) and worked as a consultant at an award-winning government relations firm. My favorite project involved developing a dispatch & GPS tracking web app to help a major airport shuttle business comply with new regulations.   
    
 ### Version 2.1 : Startup Life   
-I served as COO of a talent management agency for Twitch streamers that was featured in the New Yorker's annual tech issue in 2017. I was the sole developer working on the CRM than ran the business, and wrote more than 50,000 lines of code to adapt it to our unique needs.
+I served as COO of a talent management agency for Twitch streamers that was featured in the New Yorker's 2017 tech issue. I was the sole developer working on the CRM that ran the business, and managed a small tech team as well. I wrote more than 50,000 lines of code to adapt it to our unique needs.
   
 ### Version 3.0 : Work in Progress
-The talent management agency I worked for shut down three months into the pandemic. I searched for a job in tech for almost a year while supporting myself with contract gigs, but there were too many gaps in my technical knowledge to get the kind of role I wanted at a large company. I moved across the country to a low cost-of-living area and started a 12-month training program completing four professional certificates in computer science, full-stack development, data science, and machine learning.  
+The talent management agency I worked for shut down three months into the pandemic. I searched for a job in software development, but realized there were too many gaps in my technical knowledge to get the kind of role I wanted. I moved out of the country (temporarily) to a low cost-of-living area, and started a 12-month training program to complete four professional certificates: intro to computer science, full-stack web development, data science, and machine learning.  
  
 
 <!---
