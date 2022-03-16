@@ -24,7 +24,7 @@ Personal portfolio site built with Vue
 **[TINY TECH TRIVIA](https://tinytechtrivia.herokuapp.com)**   
 **Python | Flask | SQLite**   
 Trivia quiz site for practicing general technical knowledge & regex, built with python / Flask and SQLite. Questions come from the QuizAPI public API.   
-![tiny tech trivia](https://github.com/jayeclark/jayeclark/blob/main/t3-thumbnail.png)   
+![tiny tech trivia](https://github.com/jayeclark/jayeclark/blob/main/t3-thumb.png)   
 &nbsp;    
 &nbsp;    
 **[OPEN SOURCE CHALLENGE](https://github.com/jayeclark/jayeclark/blob/main/opensourcechallenge.md)**  
