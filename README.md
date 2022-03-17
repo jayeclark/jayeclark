@@ -55,7 +55,7 @@ After my PhD, I moved to sunny San Diego (no more snow!) and worked as a consult
 I served as COO of a talent management agency for Twitch streamers that was featured in the New Yorker's 2017 tech issue. I was the sole developer working on the CRM that ran the business, and managed a small tech team as well. I wrote more than 50,000 lines of code to adapt it to our unique needs.
   
 ### Version 3.0 : Work in Progress
-The talent management agency I worked for shut down three months into the pandemic. I searched for a job in software development, but realized there were too many gaps in my technical knowledge to get the kind of role I wanted. I moved out of the country (temporarily) to a low cost-of-living area, and started a 12-month training program to complete four professional certificates: intro to computer science, full-stack web development, data science, and machine learning.  
+The talent management agency I worked for shut down three months into the pandemic. I searched for a job in software development, but realized there were too many gaps in my technical knowledge to get the kind of role I wanted. I moved out of the country (temporarily) to a low cost-of-living area, and started a 12-month training program to complete four professional certificates: [Intro to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [Full-stack Web Development](https://xpro.mit.edu/programs/program-v1:xPRO+PCCx+R1/), [Data Science](https://www.edx.org/professional-certificate/harvardx-data-science), and [Machine Learning](https://learn-xpro.mit.edu/machine-learning).  
  
 
 <!---
