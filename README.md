@@ -12,7 +12,7 @@ I'm a full stack developer with nearly a decade of relevant business and teachin
 **[MY DEV INTERVIEW](http://www.mydevinterview.com)**  
 **TypeScript | React | Next.js | Strapi | Postgres**   
 Full stack remote interview prep & practice app.  
-![my dev interview]([https://github.com/jayeclark/jayeclark/blob/main/instaplate-thumbnail.png](https://jayeclark.github.io/assets/mydevinterview-thumbnail.3723d29c.png))  
+![my dev interview](https://github.com/jayeclark/jayeclark/blob/main/instaplate-thumbnail.png)  
 &nbsp;      
 &nbsp; 
 **[INSTAPLATE](http://instaplate.heroku.com)**  
