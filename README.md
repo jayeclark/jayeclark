@@ -50,7 +50,7 @@ Ms. Pacman browser game built with vanilla JavaScript.
 &nbsp;    
 **[FRONTEND NOODLING](https://jayeclark.github.io/front-end/)**    
 **JavaScript | React**   
-Fun noodling with cloning various front end sites. Work in progress. 
+Fun noodling with cloning various front end sites. Work in progress.    
 ![front end sites](https://jayeclark.github.io/assets/clones-thumbnail.c8a1fc24.png)   
    
 ## Contributing
