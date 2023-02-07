@@ -9,7 +9,7 @@ I'm a full stack developer with nearly a decade of relevant business and teachin
 
 
 ## Personal Projects (Just for Fun!)
-If you'd like to see my work as part of a team of developers, check out the ParetOs [website](https://www.paret0.com) and [repository](https://github.com/mikhael28/paretOS/). Some of my older personal projects are below. They're primarily for front-end practice or for testing out or learning new stacks and frameworks.  
+If you'd like to see my work as part of a team of developers, along with my communication & leadership skills, check out the ParetOs [website](https://www.paret0.com) and [repository](https://github.com/mikhael28/paretOS/). Some of my older personal projects are below. They're primarily for front-end practice or for testing out or learning new stacks and frameworks.  
 &nbsp;      
 &nbsp;      
 **[MY DEV INTERVIEW](http://www.mydevinterview.com)**  
