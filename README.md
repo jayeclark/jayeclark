@@ -63,13 +63,13 @@ I studied medical ethics at Harvard and wrote my undergraduate thesis on how onl
 ### Version 1.1 : Doctor Doctor   
 I stayed at Harvard and earned a PhD. My work focused on how patients with rare diseases attempted to raise the perceived importance of their illness among government agencies, by establishing new kinship relationships between their rare disease and other, more 'important' diseases - and how the internet rapidly expanded the tools they had available to make those connections.  
    
-### Version 2.0 : California Dreamin
+### Version 2.0 : California Dreamin & Learning to Code
 After my PhD, I moved to sunny San Diego (no more snow!) and worked as a consultant at an award-winning government relations firm. My favorite project involved teaching myself to code, so that I could develop a dispatch & GPS tracking web app to help a major airport shuttle business comply with new regulations. I am still so impressed that tiny GPS devices made in South Africa and installed in cars in San Diego could send messages TO SPACE and then to a Czech company that sent them to my Chicago-hosted web app and onto the end-user devices of airport shuttle staff - all in just a few seconds.
    
 ### Version 2.1 : Startup Life   
 I served as COO of a talent management agency for Twitch streamers that was featured in the New Yorker's 2017 tech issue. I was the sole developer working on extending and customizing the CRM that ran the business (think: Salesforce developer), and managed a small tech team that built an analytics platform that ingested all Twitch broadcast data and used it to make predictions about broadcaster growth and sponsored content timing & prices. 
   
-### Version 3.0 : Back to School
+### Version 3.0 : Back to School for CS
 The talent management agency I worked for shut down three months into the pandemic. I started searching for a full time job in software development, but soon realized there were gaps in my technical knowledge from my years as a solo developer using older/obscure technologies. I rented out my house, hit the road as a digital nomad (new experiences are the PERFECT backdrop for learning), and committed to a 24-month training program of self study using open courseware in CS and Math, accompanied by two professional certificates: [Full-stack Web Development](https://xpro.mit.edu/programs/program-v1:xPRO+PCCx+R1/), and [Machine Learning](https://learn-xpro.mit.edu/machine-learning).  
  
 ### Version 4.0 : Day 1
