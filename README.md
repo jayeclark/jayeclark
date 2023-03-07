@@ -1,6 +1,6 @@
 # Hi, I'm Jay Clark 👩🏻‍💻
 
-I'm a full stack developer with nearly a decade of relevant business and teaching experience, expertise in and enthusiasm for accounting and healthcare, and a special talent for DevOps, CI/CD, and Debugging. 
+I'm a full stack developer with nearly a decade of relevant business and teaching experience, expertise in and enthusiasm for accounting, data science, and healthcare, and a special talent for DevOps, CI/CD, and Debugging. 
   
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/jayeclark/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/jennbot3000) 
