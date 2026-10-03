@@ -1,0 +1,24 @@
+name: Stats
+
+on:
+  schedule:
+    - cron: "37 10 * * *" # daily, after the shadow-commit sync
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/scripts/stats.py
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - name: Commit if changed
+        run: |
+          git add github-stats.svg
+          git diff --cached --quiet && exit 0
+          git -c user.name="github-actions[bot]" -c user.email="41898900+github-actions[bot]@users.noreply.github.com" commit -m "Update stats"
+          git push
