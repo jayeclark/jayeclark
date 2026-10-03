@@ -19,5 +19,5 @@ jobs:
           user: jayeclark
           filename: github-metrics.svg
           template: classic
-          base: header
+          base: header, activity
           config_timezone: America/Los_Angeles
