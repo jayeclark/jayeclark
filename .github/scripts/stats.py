@@ -1,4 +1,4 @@
-"""Render github-stats.svg: past-year activity, public (full breakdown) vs private (commits)."""
+"""Render github-stats.svg: past-year activity, public (full breakdown) vs private (total)."""
 import datetime
 import json
 import os
@@ -42,7 +42,15 @@ def render(viewer):
         ("Issues", total(c["issueContributionsByRepository"], False)),
     ]
     # Private repos the token can't see are only reported as an undisclosed total.
-    private_commits = total(c["commitContributionsByRepository"], True) + c["restrictedContributionsCount"]
+    private_contributions = c["restrictedContributionsCount"] + sum(
+        total(c[k], True)
+        for k in (
+            "commitContributionsByRepository",
+            "pullRequestContributionsByRepository",
+            "pullRequestReviewContributionsByRepository",
+            "issueContributionsByRepository",
+        )
+    )
 
     start = datetime.date.fromisoformat(c["startedAt"][:10])
     today = datetime.date.today()
@@ -52,7 +60,7 @@ def render(viewer):
     for i, (label, n) in enumerate(public):
         x = 104 + i * 92
         cells.append(f'<text x="{x}" y="76" class="v">{fmt(n)}</text><text x="{x}" y="92" class="l">{label}</text>')
-    cells.append(f'<text x="104" y="136" class="v">{fmt(private_commits)}</text><text x="104" y="152" class="l">Commits</text>')
+    cells.append(f'<text x="104" y="136" class="v">{fmt(private_contributions)}</text><text x="104" y="152" class="l">Contributions</text>')
 
     name = viewer["name"] or viewer["login"]
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="480" height="176" viewBox="0 0 480 176">
