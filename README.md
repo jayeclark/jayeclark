@@ -28,6 +28,27 @@ Toward the end of my self-study, I received an offer to join the Amazon Fresh te
 ### Version 4.1 : We're Just Getting Started
 I joined Remitly in 2023 and have spent the last few years doing some of the most meaningful and technically interesting work of my career. As an Engineering Manager in Global Money Movement, I built MOCHA: a zero-to-one internal product that consolidated 5 separate tooling services into a single platform with risk-tiered change control, used by non-technical operations staff to safely configure a payment network processing tens of billions of dollars in transactions. I also led an initiative that expanded US ACH bank deposit support from 28 to 9,000+ financial institutions. More recently, as a Technical Lead and product engineer on the High Value Senders team, I've been building a company-wide recommendations policy engine serving 51 million personalized recommendations per day at sub-22ms TP50 latency, architecting a contextual content platform that lets teams run complex merchandising experiments without touching front end code, and a rearchitecture of transfer preview and submission logic across 6 teams and 4 Tier 1 services that unlocked $70M in incremental annual send volume and aligned the preview and submit process to company North Star architecture. I also built an agentic SDLC pipeline that now seeds High Value Sender product projects across the company.
 
+## Personal Projects
+
+Most of my personal projects right now are side projects at work, so I don't have much recent work that I can share publicly. Some of the fun things I've been noodling on at work:
+
+-redactied-
+A cloud-based autonomous AI agent orchestrator running the full SDLC lifecycle from product discovery through PRD, Technical Design, Implementation, Verification, and Rollout.
+
+-redactied-
+A service to monitor ongoing experiments and alert if specific invariant conditions are breached that might affect experiment results.
+
+-redactied-
+A service to perform automated verification and screenshotting/video recording of AI-generated pull requests adding new UI features.
+
+-redactied-
+A mocking service that sits in the internal service mesh and can mimic any partner or internal api on demand on a user-by-user basis, enabling targeted testing in preprod of new APIs and hard-to-reach error edge cases.
+
+And one personal project that's not yet public:
+
+Braggle
+An app to help employees keep a running 'brag book' of their daily and weekly accomplishments for incorporating into resumes, job applications, and internal promo & review documents.
+
 <!---
 jayeclark/jayeclark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
