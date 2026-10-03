@@ -5,7 +5,7 @@ I'm a full stack developer with nearly a decade of relevant business and teachin
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/jayeclark/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/jennbot3000) 
 
-![Jay Clark's Github Stats](./github-metrics.svg)
+![Jay Clark's Github Stats](./github-stats.svg)
 
 
 ## Personal Projects (Just for Fun!)
